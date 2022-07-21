@@ -15,7 +15,7 @@ Set random stagelist based on Code Menu Stagelist setting (ILPM) [Bird]
 * 04523330 00000000
 * 04523340 00000000
 * 42000000 90000000 #Set base address to 90000000
-* 0417BE74 14001511 # Brawl stages
+* 0417BE74 14001515 # Brawl stages
 * 0417BE70 00021000 # Melee stages
 * E0000000 80008000
 
@@ -29,7 +29,7 @@ Set random stagelist based on Code Menu Stagelist setting (Invincible) [Bird]
 * 04523330 00000000
 * 04523340 00000000
 * 42000000 90000000 #Set base address to 90000000
-* 0417BE74 04000511 # Brawl stages
+* 0417BE74 15100015 # Brawl stages
 * 0417BE70 00021000 # Melee stages
 * E0000000 80008000
 

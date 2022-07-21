@@ -46,7 +46,7 @@ TABLE_1:
 0x28, | # Pokemon Stadium 2
 0x02, | # Delfino's Secret
 0x2B, | # Training Room
-0x2B | # Training Room
+0x2B  | # Training Room
 
 TABLE_2:
 	byte[26] |
@@ -132,8 +132,8 @@ half[61] |	# Stage Count + 2
 SkipStageTables:
 .RESET
 * 20523400 00000001 # If 80523400 is equal to 1
-byte 10 @ $806B929C # Page 1
-byte 25 @ $806B92A4 # Page 2
+byte 11 @ $806B929C # Page 1
+byte 26 @ $806B92A4 # Page 2
 byte 24 @ $80496002 # Page 3
 byte 00 @ $80496003 # Page 4 (Unused)
 byte 00 @ $80496004 # Page 5 (Unused)
