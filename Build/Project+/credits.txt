@@ -1,5 +1,6 @@
-SKINS
-
+###############################
+#####       SKINS        ######
+###############################
 Knuckles Z Alt - Metal Knuckles by SJS
 https://gamebanana.com/mods/323365
 
@@ -26,8 +27,15 @@ Samus Dread Alts by Iwantgames, cosmetics by VirtualBeef
 https://gamebanana.com/mods/330647
 https://gamebanana.com/mods/360516
 
+Cactivy by MarioDox
+https://gamebanana.com/mods/247417
 
-STAGES
+Ivysaur R Alt - Witch Ivy by 
+
+
+###############################
+#####      STAGES        ######
+###############################
 
 NE PS2 by ilikepizza107
 
