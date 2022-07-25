@@ -1,6 +1,6 @@
-###############################
-#####       SKINS        ######
-###############################
+################
+SKINS
+################
 Knuckles Z Alt - Metal Knuckles by SJS
 https://gamebanana.com/mods/323365
 
@@ -30,12 +30,12 @@ https://gamebanana.com/mods/360516
 Cactivy by MarioDox
 https://gamebanana.com/mods/247417
 
-Ivysaur R Alt - Witch Ivy by 
+Ivysaur R Alt - Witch Ivy by MetalLegacy, StarWaffle, Ca$ino Wolf, TOCK
 
 
-###############################
-#####      STAGES        ######
-###############################
+################
+STAGES
+################
 
 NE PS2 by ilikepizza107
 
@@ -51,4 +51,4 @@ IL Yoshi's Story by Motobug
 Crateria by Motobug
 
 Hammer Express by  Nezha the Scout, KingJigglypuff, Ryztiq, Kirbeast, fudgepop01, eon_tas, Survivian, Electropolitan
-
+http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220257
