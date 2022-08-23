@@ -1,10 +1,10 @@
 BATTLEFIELD
 -Boss Battle 1 (Kid Icarus Uprising)
 -Deep Drop (Kingdom Hearts)
--A Stranger I Remain (MGR)
--Collective Counsciousness (MGR)
--It Has To Be This Way (MGR)
--Roaming the Wastes (Xenoblade Chronicles 2)
+-The Extreme (Final Fantasy VIII)
+-Challengers (DBZ Budokai)
+-Yin Yang (Persona 4)
+-Pillars of the Underworld (Guilty Gear)
 
 CASTLE SIEGE
 -Stand Your Ground (FFXV)
@@ -17,7 +17,8 @@ CRATERIA
 -Duck King Theme (Fatal Fury Special)
 -Bringer of Chaos Ultimate (Xenoblade Chronicles 2)	
 -Rumors (Neon White)
--Bury the Light (Devil May Cry V)
+-Full Steam Vengeance (Rivals of Aether)
+-Twilight (Street Fighter 3rd Strike)
 
 DELFINOS SECRET
 -JENOVA (FFVII)
@@ -29,8 +30,10 @@ DREAM LAND
 -Vainglorious Chorus (Neon White)
 -Tower of Heaven (Rivals of Aether)
 -Moonsiders 1st (Tekken 7)
--Karma Electric Fountain (Tekken 6)
+-Laser Lab (Kirby Planet Robobot)
 -Pleather for Breakfast (No More Heroes)
+-Aqua Star (Kirby 64 The Crystal Shards)
+-Love You Love You Love (Mighty Switch Force)
 
 FINAL DESTINATION
 -Fight with Seymour (FFX)
@@ -49,35 +52,45 @@ FOUNTAIN OF DREAMS
 -Cloud Nine (Neon White)
 
 GREEN HILL ZONE
--Dream Chaser (F Zero X)
+-Simple Life (Guilty Gear XX)
 -Hyperbolic Time Chamber (DBZ Budokai)
 -Sling Shot (No More Heroes 2)
 -Mr Easygoing Man (Persona 4)
 -Titanic Tower Act 3 (Sonic Before the Sequel)
 -House of Cards (Neon White)
 -Where's the Van (Payday 2)
+-Stardust Speedway JPN (Sonic CD)
+-Mirage Saloon Act 2 (Sonic Mania)
+-Haunted Ship (Sonic Rush Adventure)
 
 HYRULE MEADOWS
 -Battle 2 (FF Mystic Quest)
 -Battle at the Big Bridge (FFV)
 -Force Your Way (FFVIII)
--Battle Theme 3 (Shining Force)
+-That Persons Name Is (Bravely Default)
+-Vambee Church (Brave Fencer Musashi)
 
 MENU 
 -Actor's Anteroom (Melty Blood Actress Again)
--Network Lobby Music (Darkstalkers)
 -Bloody Sneakers (Neon White)
 -Neon Bar (Neon White)
 -Mayhem Dressed in a Suit (Payday 2)
 -Sun (Persona 3 Portable)
 -Sakura Theme (SF Alpha 2)
 -Under the Ocean (Super Monkey Ball 2)
+-Special Stage JPN (Sonic CD)
+-School Days (Persona PSP)
+-Ocean (Guilty Gear Xrd)
+-Real Universe (SMT Nocturne)
+-Cavern of Remembrance (Kingdom Hearts 2.5)
 
 METAL CAVERN
 -Rude Buster (Deltarune)
 -Glass Ocean (Neon White)
 -Fight On! (FFVII)
 -An Underlying Problem (Shovel Knight)
+-Utsuho's Theme (Touhou)
+-Crimson (Street Fighter Alpha 3)
 
 POKEMON STADIUM 2
 -Anji's Theme (Guilty Gear)
@@ -87,6 +100,9 @@ POKEMON STADIUM 2
 -Dante Battle (SMT 3)
 -Soy Sauce for Geese (Tekken 7)
 -Livin' On The Deck (Metal Slug X)
+
+RESULTS
+-Network Lobby Music (Darkstalkers)
 
 SMASHVILLE
 -Redial (Bomberman Hero)
