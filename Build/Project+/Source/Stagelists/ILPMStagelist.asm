@@ -44,7 +44,7 @@ TABLE_1:
 0x1A, | # Smashville
 0x00, | # Battlefield
 0x28, | # Pokemon Stadium 2
-0x0A, | # Metroid Lab/Crateria
+0x1D, | # PictoChat
 0x2B, | # Training Room
 0x2B  | # Training Room
 
@@ -77,7 +77,7 @@ TABLE_2:
 0x25, | # Corneria
 0x27, | # Planet Zebes
 0x1F, | # Temple
-0x1D, | # PictoChat
+0x0A, | # Metroid Lab/Crateria
 0x16, | # Distant Planet
 0x2B  | # Training Room
 

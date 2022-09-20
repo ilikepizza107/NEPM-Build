@@ -1,59 +1,150 @@
 ################
+PSA
+################
+PSA edits for Black Three Sacred Treasures Pit Recolor by ilikepizza107 
+ -PSA Edited: Article 1, Sub Action 0, GFX; Article 1, Sub Action 1, GFX; Article 1, Sub Action 2, GFX; Sub Routine 0x146F0 [Now 0x15420]
+
+PSA edits for Fierce Diety Link by ilikepizza107
+ -PSA Edited: Sub Routine 0x9028
+
+PSA edits for pink Charizard fire by Extreme, with edits by ilikepizza107 [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=221032]
+ -PSA Edited: Sub Action 1, GFX; Sub Action 19, Main; Sub Action 19, GFX; Sub Action 3C, Main; Sub Action 3C, GFX; Sub Action 55, Main; Sub Action 58, Main; Sub Action 58, GFX; Sub Action 62, Main; Sub Action 62, GFX; Sub Action 63, Main; Sub Action 63, GFX; Sub Action 64, Main; Sub Action 74, Main; Sub Action 74, GFX; Sub Action 75, Main; Sub Action 75, GFX; Sub Action DC, Main; Sub Action 1C2, GFX; Sub Action 1C4, GFX; Sub Action 1D5, Main; Sub Action 1D5, GFX; Sub Action 1D7, Main; Sub Action 1D8, Main; 1D8, GFX; Sub Action 1D9, GFX; Sub Action 1DA, GFX; Sub Routine 0x247F0, Sub Routine 0x251D0; Sub Routine 0x265A8
+
+################
 SKINS
 ################
-Knuckles Z Alt - Metal Knuckles by SJS
-https://gamebanana.com/mods/323365
 
-Treasure Hunter Knuckles Cosmetics by Chucklez
-https://gamebanana.com/mods/247350
+MARIO
 
-Gunther Marth by ilikepizza107
+DONKEY KONG
 
-Kulprit Meta Knight by ilikepizza107
-
-Elclid Fox by ilikepizza107
-
-Y G L Kirby by ilikepizza107
-
+LINK
 SgtPingwen Link by ilikepizza107
 
-S̸̲̔̓o̴̦̲̭͙̩̽́̎͊̈́̓ň̷̲͖͗͊̔̅ï̵͈̪̽͘c̷̡̛̺͉̱̥̔̍̑͗̀.̷̡̛̺̙̼͓̀̏̋͠͠e̵̢͕̺̗̤̬̽̔̕͝͝͠x̴̣̜̙̦̃͗̿̚̚é̶͈͎̲̤̉͋̏ ̴̨̘̟͌͆͛͆̊͘a̷̛̻͍̐̇̿̚͜l̶̘̈͐t̴̛͓͉͈̰̊̏̀̐ ̶̥͙̥͍́̐̔͆́̀͜f̶̢͋̋̈́ố̶̫̅̐r̴̼̋̌̃ ̵̙̮̑̀̂̂̕͠W̴̤̖̮͖̞̦̄͠o̶̲͍̜̦̯̳͛̅̽͝ḷ̷̖̋͝f̸̢̱̭̑͗̎̕ by KTH, BBreon
-https://gamebanana.com/mods/247325
+SAMUS
+40 - Metroid Dread Power Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
+41 - Metroid Dread Metroid Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
+AltZ - SA-X by RedipsTheCooler, Afterthought, PMDT, SmashEmblem_guy, BlueLink, Moe, SJS, Xenozoa425, Rowsond [https://gamebanana.com/mods/388887]
 
-Samus Z Alt - SA-X by RedipsTheCooler
-https://gamebanana.com/mods/388887
+YOSHI
 
-Samus Dread Alts by Iwantgames, cosmetics by VirtualBeef
-https://gamebanana.com/mods/330647
-https://gamebanana.com/mods/360516
+KIRBY
+24 -  Y G L Kirby by ilikepizza107
 
-Cactivy by MarioDox
-https://gamebanana.com/mods/247417
+FOX
+09 - Elclid Fox by ilikepizza107
+30 - James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
+31 - Red James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
+32 - Green James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
+33 - Blue James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
+34 - Purple James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
+35 - Black James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
+AltZ - Peppy Hare by Lost Saltshaker [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=17792]
 
-Ivysaur R Alt - Witch Ivy by MetalLegacy, StarWaffle, Ca$ino Wolf, TOCK
+PIKACHU
 
-Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, render scene by tyleto, PSA edits for Black Recolor by ilikepizza107
-http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745
-http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746
-PSA Edited: Article 1, Sub Action 0, GFX; Article 1, Sub Action 1, GFX; Article 1, Sub Action 2, GFX
+LUIGI
 
-Pit R Alt - Tekkaman Blade by Beyond
-http://forums.kc-mm.com/Gallery/BrawlView.php?Number=23426
+CAPTAIN FALCON
 
-Robo D3 by ShadowLuigi~NG~
-http://forums.kc-mm.com/Gallery/BrawlView.php?Number=207980 [Download link dead]
+NESS
 
-Shadow Armored Mewtwo Cosmetics by Hulkalex
-https://www.mediafire.com/file/s7bq2u17sanczm0/pokemon_Shadow_Pack.zip/file
+BOWSER
 
-Galaxy Mewtwo by kenmak, cosmetics by Icezer
-http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223
+PEACH
 
-Mewtwo Z Alt - Mega Mewtwo Y by <X>, Vaanrose
-http://forums.kc-mm.com/Gallery/BrawlView.php?Number=35333
+ZELDA
 
-Fox Z Alt - Peppy Hare by Lost Saltshaker
-https://forums.kc-mm.com/Gallery/BrawlView.php?Number=17792
+SHEIK
+
+ICE CLIMBERS
+
+MARTH
+34 - Gunther Marth by ilikepizza107
+
+MR. GAME & WATCH
+
+FALCO
+
+GANONDORF
+
+META KNIGHT
+24 - Kulprit Meta Knight by ilikepizza107
+
+PIT
+21 - Black Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
+40 - Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107 [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
+41 - Red Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
+42 - Green Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
+43 - Blue Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
+AltR - Tekkaman Blade by Beyond [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=23426]
+
+ZERO SUIT SAMUS
+40 - Dread Power Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
+41 - Metroid Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
+
+OLIMAR
+
+LUCAS
+
+DIDDY KONG
+
+MEWTWO
+25 - Shadow Armored Mewtwo_Project M 3.5 by LazyRed with credit to Project M, Ryztiq, RAWRzilla; Shadow Armored Mewtwo Cosmetics by Hulkalex [https://www.mediafire.com/file/s7bq2u17sanczm0/pokemon_Shadow_Pack.zip/file]
+40 - Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
+41 - Red Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
+42 - Green Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
+43 - Blue Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
+44 - Teal Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
+45 - Yellow Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
+46 - Black Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
+AltZ - Mega Mewtwo Y by <X>, Vaanrose [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=35333]
+
+
+CHARIZARD
+10 - Big Doinks Charizard by ilikepizza107
+
+SQUIRTLE
+
+IVYSAUR
+30 - Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
+31 - Red Desert Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
+32 - Eryngo Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
+33 - Prickly Pear Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
+AltR - Witch Ivy by MetalLegacy, StarWaffle, Ca$ino Wolf, TOCK
+
+DEDEDE
+30 - Robo D3 by ShadowLuigi~NG~ [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=207980 (Download link dead)]
+
+LUCARIO
+
+IKE
+
+R.O.B.
+
+JIGGLYPUFF
+
+WARIO
+
+ROY
+
+TOON LINK
+
+WOLF
+Tag 'EXE' - S̸̲̔̓o̴̦̲̭͙̩̽́̎͊̈́̓ň̷̲͖͗͊̔̅ï̵͈̪̽͘c̷̡̛̺͉̱̥̔̍̑͗̀.̷̡̛̺̙̼͓̀̏̋͠͠e̵̢͕̺̗̤̬̽̔̕͝͝͠x̴̣̜̙̦̃͗̿̚̚é̶͈͎̲̤̉͋̏ ̴̨̘̟͌͆͛͆̊͘a̷̛̻͍̐̇̿̚͜l̶̘̈͐t̴̛͓͉͈̰̊̏̀̐ ̶̥͙̥͍́̐̔͆́̀͜f̶̢͋̋̈́ố̶̫̅̐r̴̼̋̌̃ ̵̙̮̑̀̂̂̕͠W̴̤̖̮͖̞̦̄͠o̶̲͍̜̦̯̳͛̅̽͝ḷ̷̖̋͝f̸̢̱̭̑͗̎̕ by KTH, BBreon [https://gamebanana.com/mods/247325]
+
+SNAKE
+
+SONIC
+
+WARIO MAN
+
+BOWSER
+
+KNUCKLES
+30 - Treasure Hunter Knuckles by SJS, StarWaffle, and tryptech; Treasure Hunter Knuckles Cosmetics by Chucklez [https://gamebanana.com/mods/247350]
+AltZ - Metal Knuckles by SJS [https://gamebanana.com/mods/323365]
+
 
 ################
 STAGES
@@ -61,19 +152,23 @@ STAGES
 
 NE PS2 by ilikepizza107
 
-Hyrule Meadows by Motobug
+PIRATE SHIP
+Base -  Hyrule Meadows by Motobug
 
-Gardenville by pharoahfawcett, Red93, tsukikomi
-http://forums.kc-mm.com/Gallery/BrawlView.php?Number=209193
+SMASHVILLE
+Base - Gardenville by pharoahfawcett, Red93, tsukikomi, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=209193]
+ -IL Smashville plat animation by Motobug
+R [PMBR Toggle] - Optimized Beachville by Moblin with credit to pharoahfawcett, rihuganon for the original stage, fixes by mawwwk
 
-IL Smashville plat animation by Motobug
+YOSHI'S STORY
+Base - IL Yoshi's Story by Motobug
 
-IL Yoshi's Story by Motobug
+METROID LAB
+Base  - Crateria by Motobug
+R     - Metroid Lab by Ryztiq
 
-Crateria by Motobug
-
-Hammer Express by  Nezha the Scout, KingJigglypuff, Ryztiq, Kirbeast, fudgepop01, eon_tas, Survivian, Electropolitan
-http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220257
+HAMMER EXPRESS
+Base - Hammer Express by Nezha the Scout, KingJigglypuff, Ryztiq, Kirbeast, fudgepop01, eon_tas, Survivian, Electropolitan [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220257]
 
 
 ################
