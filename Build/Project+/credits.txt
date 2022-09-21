@@ -146,11 +146,15 @@ KNUCKLES
 AltZ - Metal Knuckles by SJS [https://gamebanana.com/mods/323365]
 
 
-################
-STAGES
-################
+########################
+STAGES [ILPM Toggle]
+########################
 
-NE PS2 by ilikepizza107
+PICTOCHAT
+Base - P+BR Pictochat by Motobug
+
+POKEMON STADIUM 2
+Base - NE PS2 by ilikepizza107
 
 PIRATE SHIP
 Base -  Hyrule Meadows by Motobug
@@ -158,14 +162,12 @@ Base -  Hyrule Meadows by Motobug
 SMASHVILLE
 Base - Gardenville by pharoahfawcett, Red93, tsukikomi, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=209193]
  -IL Smashville plat animation by Motobug
-R [PMBR Toggle] - Optimized Beachville by Moblin with credit to pharoahfawcett, rihuganon for the original stage, fixes by mawwwk
 
 YOSHI'S STORY
-Base - IL Yoshi's Story by Motobug
+Base - P+BR/IL Yoshi's Story by Kirbeast, ghosts removed by ilikepizza107
 
 METROID LAB
 Base  - Crateria by Motobug
-R     - Metroid Lab by Ryztiq
 
 HAMMER EXPRESS
 Base - Hammer Express by Nezha the Scout, KingJigglypuff, Ryztiq, Kirbeast, fudgepop01, eon_tas, Survivian, Electropolitan [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220257]
