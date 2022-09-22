@@ -10,6 +10,9 @@ PSA edits for Fierce Diety Link by ilikepizza107
 PSA edits for pink Charizard fire by Extreme, with edits by ilikepizza107 [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=221032]
  -PSA Edited: Sub Action 1, GFX; Sub Action 19, Main; Sub Action 19, GFX; Sub Action 3C, Main; Sub Action 3C, GFX; Sub Action 55, Main; Sub Action 58, Main; Sub Action 58, GFX; Sub Action 62, Main; Sub Action 62, GFX; Sub Action 63, Main; Sub Action 63, GFX; Sub Action 64, Main; Sub Action 74, Main; Sub Action 74, GFX; Sub Action 75, Main; Sub Action 75, GFX; Sub Action DC, Main; Sub Action 1C2, GFX; Sub Action 1C4, GFX; Sub Action 1D5, Main; Sub Action 1D5, GFX; Sub Action 1D7, Main; Sub Action 1D8, Main; 1D8, GFX; Sub Action 1D9, GFX; Sub Action 1DA, GFX; Sub Routine 0x247F0, Sub Routine 0x251D0; Sub Routine 0x265A8
 
+PSA edits for blue Fox fire by Extreme, with edits by ilikepizza107 [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=221073]
+ -PSA Edited: Sub Action 1BC, GFX; Sub Action 1DA, Main; Sub Action 1DA, GFX; Sub Action 1DC, Main; Sub Action 1DC, GFX
+
 ################
 SKINS
 ################
@@ -19,7 +22,8 @@ MARIO
 DONKEY KONG
 
 LINK
-SgtPingwen Link by ilikepizza107
+25 - SgtPingwen Link by ilikepizza107
+26 - Fierce Diety Link by  Moe, AlGeorgeRomo, additional edits and revamps by Bird of Light, Skillar, SJS, fireball, tyleto, Xenthos, SatoshiKura, Crixler, ledgerewskie, Layell, Aghanim, PizzaDog, Jigglypoof21, Draco, Mach 7, Nanobuds, Theytah, credit to PMDT
 
 SAMUS
 40 - Metroid Dread Power Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
@@ -39,6 +43,7 @@ FOX
 33 - Blue James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
 34 - Purple James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
 35 - Black James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
+36 - GAGE Fox by ilikepizza107
 AltZ - Peppy Hare by Lost Saltshaker [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=17792]
 
 PIKACHU
@@ -119,6 +124,7 @@ DEDEDE
 LUCARIO
 
 IKE
+AltZ - Guts by ilikepizza107, with credit to ASideOfChidori for the model and Rocky38 for importing (optimized by ilikepizza107)
 
 R.O.B.
 
