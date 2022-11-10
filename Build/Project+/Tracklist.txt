@@ -4,6 +4,7 @@ BATTLEFIELD
 -The Extreme (Final Fantasy VIII)
 -Challengers (DBZ Budokai)
 -Yin Yang (Persona 4)
+-Mechanical Halo (Neon White)
 -Pillars of the Underworld (Guilty Gear)
 
 CASTLE SIEGE
@@ -16,14 +17,12 @@ CRATERIA
 -Clock Tower Stage (Marvel vs Capcom 2)
 -Duck King Theme (Fatal Fury Special)
 -Bringer of Chaos Ultimate (Xenoblade Chronicles 2)	
--Rumors (Neon White)
 -Full Steam Vengeance (Rivals of Aether)
 -Twilight (Street Fighter 3rd Strike)
 
 DELFINOS SECRET
 -JENOVA (FFVII)
 -Killing Moon (SFIII 3rd Strike)
--Pendulum (Neon White)
 -Buoy Base Galaxy (Super Mario Galaxy)
 
 DREAM LAND
@@ -40,7 +39,6 @@ FINAL DESTINATION
 -You're Mine (Furi)
 -The Man With the Machine Gun (FFVIII)
 -Rules of Nature (MGR)
--Mechanical Halo (Neon White)
 -Battle Against a True Hero (Undertale)
 
 FOUNTAIN OF DREAMS
@@ -49,7 +47,6 @@ FOUNTAIN OF DREAMS
 -Shooting Star (Mega Man Star Force)
 -Beat Eat Nest (Under Night In-Birth)
 -Blood Drain Again (Under Night In-Birth)
--Cloud Nine (Neon White)
 
 GREEN HILL ZONE
 -Simple Life (Guilty Gear XX)
@@ -58,14 +55,15 @@ GREEN HILL ZONE
 -Mr Easygoing Man (Persona 4)
 -Titanic Tower Act 3 (Sonic Before the Sequel)
 -House of Cards (Neon White)
--Where's the Van (Payday 2)
 -Stardust Speedway JPN (Sonic CD)
 -Mirage Saloon Act 2 (Sonic Mania)
 -Haunted Ship (Sonic Rush Adventure)
+-Cloud Nine (Neon White)
 
 HYRULE MEADOWS
 -Battle 2 (FF Mystic Quest)
 -Battle at the Big Bridge (FFV)
+-Castle Vein (ULTRAKILL)
 -Force Your Way (FFVIII)
 -That Persons Name Is (Bravely Default)
 -Vambee Church (Brave Fencer Musashi)
@@ -83,6 +81,7 @@ MENU
 -Ocean (Guilty Gear Xrd)
 -Real Universe (SMT Nocturne)
 -Cavern of Remembrance (Kingdom Hearts 2.5)
+-Arashi no Saxaphone 2 (KOF '96)
 
 METAL CAVERN
 -Rude Buster (Deltarune)
@@ -97,6 +96,7 @@ PICTOCHAT
 -Level 3 (DROD)
 -Sophisticated Fight (Zanmai)
 -Fun Chase (Zatch Bell)
+-Rigged Game (Neon White)
 
 POKEMON STADIUM 2
 -Anji's Theme (Guilty Gear)
@@ -104,6 +104,7 @@ POKEMON STADIUM 2
 -Pillars of the Underworld (Guilty Gear)
 -Amala Network (SMT 3)
 -Dante Battle (SMT 3)
+-Pendulum (Neon White)
 -Soy Sauce for Geese (Tekken 7)
 -Livin' On The Deck (Metal Slug X)
 
@@ -117,17 +118,17 @@ SMASHVILLE
 -Dreamer (Streets of Rage 2)
 -Go Straight (Streets of Rage 2)
 -Art of Fighting (Fatal Fury Special)
--Armed and Ready (RWBY)
+-Rumors (Neon White)
 
 WARIO LAND
 -River Stage (Marvel vs Capcom 2)
 -A Fool Or A Clown (Persona 4 Arena)
 -Ain't Nothin' Like a Funky Beat (Lethal League)
--Fight or Flight (Neon White)
 
 YOSHI'S ISLAND
 -Broken Moon (Touhou)
 -This is True Love Makin (Capcom vs SNK)
 -Casino Park (Sonic Heroes)
 -Cephalobeat (Splatoon)
+-Fight or Flight (Neon White)
 

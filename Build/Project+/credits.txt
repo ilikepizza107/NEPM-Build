@@ -13,6 +13,10 @@ PSA edits for pink Charizard fire by Extreme, with edits by ilikepizza107 [https
 PSA edits for blue Fox fire by Extreme, with edits by ilikepizza107 [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=221073]
  -PSA Edited: Sub Action 1BC, GFX; Sub Action 1DA, Main; Sub Action 1DA, GFX; Sub Action 1DC, Main; Sub Action 1DC, GFX
 
+PSA edits for Shifty Marth by SSK and KingJigglypuff
+ -PSA Added: Subroutine 2x78F8, 2x82A0, 2x88C0
+ -PSA Edited: Sub Actions 48, GFX; 49, GFX; 4E, GFX; 50, GFX; 54, GFX; 55, GFX; 58, GFX; 5D, GFX; 60, GFX; 62, GFX; 63, GFX; 64, GFX; 65, GFX; 66, GFX; B0, GFX; B9, GFX; D7, GFX; DC, GFX; E7, GFX; 1D0, GFX; 1D1, GFX; 1D6, GFX; 1D7, GFX; 1D8, GFX; 1D9, GFX; 1DA, GFX; 1DB, GFX; 1DC, GFX; 1DD, GFX; 1DE, GFX; 1E8, GFX; 1EB, GFX; 1EE, GFX; 1EF, GFX; 1F0, GFX; 1F1, GFX; 1F2, GFX; 1F3, GFX; 1F4, GFX
+
 ################
 SKINS
 ################
@@ -28,6 +32,7 @@ LINK
 SAMUS
 40 - Metroid Dread Power Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
 41 - Metroid Dread Metroid Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
+45 - Ultimate Black Samus by SJS, starwaffle, tryptech, Xenthos, and Rizzy [https://gamebanana.com/mods/247126]
 AltZ - SA-X by RedipsTheCooler, Afterthought, PMDT, SmashEmblem_guy, BlueLink, Moe, SJS, Xenozoa425, Rowsond [https://gamebanana.com/mods/388887]
 
 YOSHI
@@ -65,6 +70,7 @@ SHEIK
 ICE CLIMBERS
 
 MARTH
+07 - Shifty Marth by ilikepizza107, SSK
 34 - Gunther Marth by ilikepizza107
 
 MR. GAME & WATCH
@@ -75,6 +81,9 @@ GANONDORF
 
 META KNIGHT
 24 - Kulprit Meta Knight by ilikepizza107
+35 - NES Meta Knight by Dapperman
+AltZ - One Winged Warrior by Shy [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220963]
+
 
 PIT
 21 - Black Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
@@ -87,6 +96,7 @@ AltR - Tekkaman Blade by Beyond [http://forums.kc-mm.com/Gallery/BrawlView.php?N
 ZERO SUIT SAMUS
 40 - Dread Power Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
 41 - Metroid Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
+45 - Smash 4 ZSS SJS Black recolor by MarioDox [https://gamebanana.com/mods/247143]
 
 OLIMAR
 
@@ -184,3 +194,5 @@ MENUS
 ################
 
 New "Ready To Fight!" Model by Xenthos
+
+Nebraska P+ CSS and SSS logos by Y G L
