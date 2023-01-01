@@ -1,8 +1,6 @@
 ################
 PSA
 ################
-PSA edits for Black Three Sacred Treasures Pit Recolor by ilikepizza107 
- -PSA Edited: Article 1, Sub Action 0, GFX; Article 1, Sub Action 1, GFX; Article 1, Sub Action 2, GFX; Sub Routine 0x146F0 [Now 0x15420]
 
 PSA edits for Fierce Diety Link by ilikepizza107
  -PSA Edited: Sub Routine 0x9028
@@ -98,9 +96,9 @@ PIT
 AltR - Tekkaman Blade by Beyond [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=23426]
 
 ZERO SUIT SAMUS
+06 - Smash 4 ZSS SJS Black recolor by MarioDox [https://gamebanana.com/mods/247143]
 40 - Dread Power Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
 41 - Metroid Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
-45 - Smash 4 ZSS SJS Black recolor by MarioDox [https://gamebanana.com/mods/247143]
 
 OLIMAR
 
@@ -202,3 +200,10 @@ MENUS
 New "Ready To Fight!" Model by Xenthos
 
 Nebraska P+ CSS and SSS logos by Y G L
+
+
+################
+SPECIAL THANKS
+################
+
+Kapedani for the SSEEX framework, which allows for Mewtwo, Roy, Knuckles, Giga Bowser, and Wario-Man to be playable in SSE
