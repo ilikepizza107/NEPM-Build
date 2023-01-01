@@ -39,7 +39,7 @@
 2F - Peach Castle
 30 - Corneria
 31 - Big Blue
-32 - Brinstar
+32 - Planet Zebes
 33 - Hyrule Castle
 34 - Home Run (Home Run Contest Stage)
 35 - Edit Stage (Stage Builder Stages)
