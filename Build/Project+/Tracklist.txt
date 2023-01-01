@@ -81,7 +81,6 @@ MENU
 -Ocean (Guilty Gear Xrd)
 -Real Universe (SMT Nocturne)
 -Cavern of Remembrance (Kingdom Hearts 2.5)
--Arashi no Saxaphone 2 (KOF '96)
 
 METAL CAVERN
 -Rude Buster (Deltarune)
@@ -107,6 +106,8 @@ POKEMON STADIUM 2
 -Pendulum (Neon White)
 -Soy Sauce for Geese (Tekken 7)
 -Livin' On The Deck (Metal Slug X)
+-Area Zero (Pokémon Scarlet & Violet)
+-Vs Grunt (Pokémon Scarlet & Violet)
 
 RESULTS
 -Network Lobby Music (Darkstalkers)
@@ -119,6 +120,7 @@ SMASHVILLE
 -Go Straight (Streets of Rage 2)
 -Art of Fighting (Fatal Fury Special)
 -Rumors (Neon White)
+-Arashi no Saxaphone 2 (KOF '96)
 
 WARIO LAND
 -River Stage (Marvel vs Capcom 2)
