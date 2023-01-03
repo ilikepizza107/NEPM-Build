@@ -172,12 +172,17 @@ STAGES [ILPM Toggle]
 
 PICTOCHAT
 Base - P+BR Pictochat by Motobug
+R - P+BR Dark Mode Pictochat by ilikepizza107, Motobug
 
 POKEMON STADIUM 2
 Base - NE PS2 by ilikepizza107
 
-PIRATE SHIP
+HYRULE MEADOWS [PIRATE SHIP]
 Base -  Hyrule Meadows by Motobug
+L - Pirate Ship Meadows by Star
+R - Aurora Meadows by influenza
+Z - Planet's Core Meadows by Star
+Y - Flooded Cave Meadows by Star
 
 SMASHVILLE
 Base - Gardenville by pharoahfawcett, Red93, tsukikomi, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=209193]
@@ -185,9 +190,6 @@ Base - Gardenville by pharoahfawcett, Red93, tsukikomi, [http://forums.kc-mm.com
 
 YOSHI'S STORY
 Base - P+BR/IL Yoshi's Story by Kirbeast, ghosts removed and blast zone edits by ilikepizza107
-
-METROID LAB
-Base  - Crateria by Motobug
 
 HAMMER EXPRESS
 Base - Hammer Express by Nezha the Scout, KingJigglypuff, Ryztiq, Kirbeast, fudgepop01, eon_tas, Survivian, Electropolitan [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220257]
