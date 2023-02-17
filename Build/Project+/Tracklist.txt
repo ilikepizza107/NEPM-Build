@@ -35,7 +35,6 @@ FINAL DESTINATION
 -Battle Against a True Hero (Undertale)
 
 FOUNTAIN OF DREAMS
--Exothermic (Mighty Switch Force 2)
 -Eyes of Flame (Cave Story)
 -Shooting Star (Mega Man Star Force)
 -Beat Eat Nest (Under Night In-Birth)
@@ -61,6 +60,8 @@ HYRULE MEADOWS
 -Force Your Way (FFVIII)
 -That Persons Name Is (Bravely Default)
 -Vambee Church (Brave Fencer Musashi)
+-Exothermic (Mighty Switch Force 2)
+-Versus (ULTRAKILL)
 
 MENU 
 -Actor's Anteroom (Melty Blood Actress Again)
@@ -75,6 +76,8 @@ MENU
 -Ocean (Guilty Gear Xrd)
 -Real Universe (SMT Nocturne)
 -Cavern of Remembrance (Kingdom Hearts 2.5)
+-Gator Gambol (OMORI)
+-Theme of Splash Canyon (Sonic Riders)
 
 METAL CAVERN
 -Rude Buster (Deltarune)

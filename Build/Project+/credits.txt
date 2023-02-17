@@ -33,7 +33,8 @@ LINK
 SAMUS
 06 - Ultimate Black Samus by SJS, starwaffle, tryptech, Xenthos, and Rizzy [https://gamebanana.com/mods/247126]
 40 - Metroid Dread Power Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
-41 - Metroid Dread Metroid Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
+41 - Metroid Dread Gravity Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
+42 - Metroid Dread Metroid Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
 AltZ - SA-X by RedipsTheCooler, Afterthought, PMDT, SmashEmblem_guy, BlueLink, Moe, SJS, Xenozoa425, Rowsond [https://gamebanana.com/mods/388887]
 
 YOSHI
@@ -65,8 +66,10 @@ BOWSER
 PEACH
 
 ZELDA
+09 - Y G L Zelda by ilikepizza107
 
 SHEIK
+09 - Y G L Sheik by ilikepizza107
 
 ICE CLIMBERS
 
@@ -78,6 +81,7 @@ MR. GAME & WATCH
 17 - Elclid GnW by ilikepizza107
 
 FALCO
+26 - Horizon Falco by ilikepizza107
 
 GANONDORF
 
@@ -85,7 +89,6 @@ META KNIGHT
 24 - Kulprit Meta Knight by ilikepizza107
 35 - NES Meta Knight by Dapperman, cosmetics by Shy [https://www.mediafire.com/file/2wckofdzht1xrp6/NES+Meta+Knight+(P+)+Recolors+++Scene.zip/file]
 AltZ - One Winged Warrior by Shy [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220963]
-
 
 PIT
 21 - Black Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
@@ -98,11 +101,14 @@ AltR - Tekkaman Blade by Beyond [http://forums.kc-mm.com/Gallery/BrawlView.php?N
 ZERO SUIT SAMUS
 06 - Smash 4 ZSS SJS Black recolor by MarioDox [https://gamebanana.com/mods/247143]
 40 - Dread Power Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
-41 - Metroid Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
+41 - Dread Gravity Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
+42 - Metroid Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
 
 OLIMAR
 
 LUCAS
+40 - zLucas by SJS, Star
+45 - Shadowhawke Lucas by SJS
 
 DIDDY KONG
 
@@ -116,7 +122,6 @@ MEWTWO
 45 - Yellow Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
 46 - Black Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
 AltZ - Mega Mewtwo Y by <X>, Vaanrose [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=35333]
-
 
 CHARIZARD
 10 - Big Doinks Charizard by ilikepizza107
@@ -137,6 +142,7 @@ LUCARIO
 AltR - Midnight Guard by NeoZoa, with material edits by ilikepizza107 [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=6702]
 
 IKE
+07 - Gunther Ike by ilikepizza107
 AltZ - Guts by ilikepizza107, with credit to ASideOfChidori for the model and Rocky38 for importing (optimized by ilikepizza107)
 
 R.O.B.
@@ -179,10 +185,10 @@ Base - NE PS2 by ilikepizza107
 
 HYRULE MEADOWS [PIRATE SHIP]
 Base -  Hyrule Meadows by Motobug
-L - Pirate Ship Meadows by Star
+L - Pirate Ship Meadows by Star (Aus)
 R - Aurora Meadows by influenza
-Z - Planet's Core Meadows by Star
-Y - Flooded Cave Meadows by Star
+Z - Planet's Core Meadows by Star (Aus)
+Y - Flooded Cave Meadows by Star (Aus)
 
 SMASHVILLE
 Base - Gardenville by pharoahfawcett, Red93, tsukikomi, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=209193]
