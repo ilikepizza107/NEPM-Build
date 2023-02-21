@@ -23,7 +23,7 @@ TABLE_1:
 0x08, | # Pirate Ship
 0x23, | # Dream Land
 0x01, | # Final Destination
-0x14, | # Castle Siege
+0x13, | # Castle Seige
 0x1A, | # Smashville
 0x00, | # Battlefield
 0x28, | # Pokemon Stadium 2
@@ -34,7 +34,7 @@ TABLE_1:
 
 
 TABLE_2:
-	byte[28] |
+	byte[27] |
 0x3D, | # Delfino's Secret
 0x18, | # Fountain of Dreams
 0x04, | # Metal Cavern
@@ -54,7 +54,6 @@ TABLE_2:
 0x22, | # Onett
 0x26, | # Big Blue
 0x11, | # Port Town Aero Dive
-0x13, | # Flat Zone 2
 0x1D, | # PictoChat
 0x07, | # Rumble Falls
 0x25, | # Corneria
@@ -120,7 +119,7 @@ SkipStageTables:
 .RESET
 * 20523400 00000000 # If 80523400 is equal to 0
 byte 11 @ $806B929C # Page 1
-byte 28 @ $806B92A4 # Page 2
+byte 27 @ $806B92A4 # Page 2
 byte 22 @ $80496002 # Page 3
 byte 00 @ $80496003 # Page 4 (Unused)
 byte 00 @ $80496004 # Page 5 (Unused)
