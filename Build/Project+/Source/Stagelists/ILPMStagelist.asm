@@ -21,13 +21,13 @@ TABLE_1:
 	byte[11] |
 0x0C, | # Yoshi's Island
 0x08, | # Pirate Ship
-0x04, | # Metal Cavern
 0x23, | # Dream Land
-0x1C, | # Green Hill Zone
+0x01, | # Final Destination
+0x14, | # Castle Siege
 0x1A, | # Smashville
 0x00, | # Battlefield
 0x28, | # Pokemon Stadium 2
-0x1D, | # PictoChat
+0x03, | # Luigi's Mansion
 0x2B, | # Training Room
 0x2B  | # Training Room
 
@@ -37,8 +37,8 @@ TABLE_2:
 	byte[28] |
 0x3D, | # Delfino's Secret
 0x18, | # Fountain of Dreams
-0x14, | # Castle Siege
-0x01, | # Final Destination
+0x04, | # Metal Cavern
+0x1C, | # Green Hill Zone
 0x20, | # Yoshi's Story
 0x24, | # Peach's Castle
 0x0E, | # Lylat Cruise
@@ -55,7 +55,7 @@ TABLE_2:
 0x26, | # Big Blue
 0x11, | # Port Town Aero Dive
 0x13, | # Flat Zone 2
-0x03, | # Luigi's Mansion
+0x1D, | # PictoChat
 0x07, | # Rumble Falls
 0x25, | # Corneria
 0x27, | # Planet Zebes
