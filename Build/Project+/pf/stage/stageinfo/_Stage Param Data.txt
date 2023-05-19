@@ -2042,7 +2042,7 @@ Temple_of_Time_Z.param
 ################
 Temple_R.param
 
-	STGTEMPLE_R_CASTLEMANSION.pac
+	STGTEMPLE_R_LM_CASTLE.pac
 	st_final.rel
 	Temple.tlst
 
