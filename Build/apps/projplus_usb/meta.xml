@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1">
 	<name>Project+ USB Loader</name>
-	<version>1</version>		\\Configurable SD/USB Loader v70r78.11 by oggzee, usptactical, gannon, Dr. Clipper, R2-D2199, FIX94, airline38, Howard, NiTRo THe DeMoN
-	<release_date>20190331</release_date>
-	<coder>Legacy Team</coder>	\\Kirbeast, waffeln, Bird
+	<coder>Project+ Dev Team</coder>
+	<version>2.4.1</version>
+	<release_date>202305191500</release_date>
 	<short_description>Project+ USB Loader</short_description>
 <long_description>
-Project + v1.05b. All changes are not final.
+Project+ is a community-built mod of Project M featuring new aesthetics, stages, features, &amp; Knuckles. This mod would not be possible without the longstanding support of the Project M community. Thank you for playing!
 
 This is a modified version of CFG USB Loader designed for instantly loading Project+ with USB.
 </long_description>
