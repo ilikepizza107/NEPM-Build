@@ -505,6 +505,38 @@ Dream_Land.param
 	SFX / GFX: 0x006C / 0x005E
 
 ################
+Dream_Land2023.param
+
+	STGDREAMLAND2023.pac
+	st_dreamland64.rel
+	Dream_Land.tlst
+	SFX / GFX: 0x006C / 0x005E
+
+################
+Dream_Land2023_L.param
+
+	STGDREAMLAND2023_L_DL_WINTER.pac
+	st_dreamland64.rel
+	Dream_Land_Winter.tlst
+	SFX / GFX: 0x006C / 0x005E
+
+################
+Dream_Land2023_R.param
+
+	STGDREAMLAND2023_R_DL_NIGHT.pac
+	st_dreamland64.rel
+	Dream_Land.tlst
+	SFX / GFX: 0x006C / 0x005E
+
+################
+Dream_Land2023_Z.param
+
+	STGDREAMLAND2023_Z_DL_FALL.pac
+	st_dreamland64.rel
+	Dream_Land.tlst
+	SFX / GFX: 0x006C / 0x005E
+
+################
 Dream_Land_L.param
 
 	STGDREAMLAND_L_DL_WINTER.pac
@@ -711,7 +743,7 @@ Frigate_Husk.param
 
 	STGFRIGATEHUSK.pac
 	st_final.rel
-	Frigate_Orpheon.tlst
+	Frigate_Husk.tlst
 	SFX / GFX: 0x0056 / 0x0032
 
 ################
@@ -727,7 +759,7 @@ Frigate_Husk_R.param
 
 	STGFRIGATEHUSK_R_FH_DROWNED.pac
 	st_final.rel
-	Frigate_Orpheon.tlst
+	Frigate_Husk.tlst
 	SFX / GFX: 0x013D / 0x005E
 
 ################
@@ -813,6 +845,14 @@ Green_Hill_Zone_Z.param
 	STGGREENHILLZONE_Z_RADICALHIGHWAY.pac
 	st_palutena.rel
 	Radical_Highway.tlst
+	SFX / GFX: 0xFFFF / 0xFFFF
+
+################
+Grimewall_Stadium.param
+
+	STGGRIMEWALLSTADIUM.pac
+	st_final.rel
+	Pokemon_Stadium_2.tlst
 	SFX / GFX: 0xFFFF / 0xFFFF
 
 ################
@@ -1852,6 +1892,93 @@ Smashville.param
 	Flags: OldSubstage
 
 ################
+Smashville2023.param
+
+	[Substages / Normal]
+	- STGSMASHVILLE2023_00_MORNING.PAC
+	- STGSMASHVILLE2023_01_NOON.PAC
+	- STGSMASHVILLE2023_02_DUSK.PAC
+	- STGSMASHVILLE2023_03_NIGHT.PAC
+	- STGSMASHVILLE2023_03_NIGHT.PAC
+	- STGSMASHVILLE2023_03_NIGHT.PAC
+	- STGSMASHVILLE2023_04_MIDNIGHT.PAC
+	- STGSMASHVILLE2023_04_MIDNIGHT.PAC
+
+	st_village2023.rel
+	Smashville.tlst
+	SFX / GFX: 0x0064 / 0x0032
+	Flags: OldSubstage
+
+################
+Smashville2023_L.param
+
+	STGSMASHVILLE2023_L_SV_SAKURA.pac
+	st_village2023.rel
+	Smashville_Sakura.tlst
+	SFX / GFX: 0x0064 / 0x0032
+
+################
+Smashville2023_R.param
+
+	STGSMASHVILLE2023_R_SV_BEACH.pac
+	st_village2023.rel
+	Smashville_Tropical.tlst
+	SFX / GFX: 0x0064 / 0x0032
+
+################
+Smashville2023_Y.param
+
+	[Substages / Normal]
+	- STGSMASHVILLE2023_00_MORNING.PAC
+	- STGSMASHVILLE2023_01_NOON.PAC
+	- STGSMASHVILLE2023_02_DUSK.PAC
+	- STGSMASHVILLE2023_03_NIGHT.PAC
+	- STGSMASHVILLE2023_03_NIGHT.PAC
+	- STGSMASHVILLE2023_03_NIGHT.PAC
+	- STGSMASHVILLE2023_04_MIDNIGHT.PAC
+	- STGSMASHVILLE2023_04_MIDNIGHT.PAC
+
+	st_village2023.rel
+	Smashville_Concert.tlst
+	SFX / GFX: 0x0064 / 0x0032
+	Flags: OldSubstage
+
+################
+Smashville2023_YL.param
+
+	STGSMASHVILLE2023_L_SV_SAKURA.pac
+	st_village2023.rel
+	Smashville_Concert.tlst
+	SFX / GFX: 0x0064 / 0x0032
+	Flags: OldSubstage
+
+################
+Smashville2023_YR.param
+
+	STGSMASHVILLE2023_R_SV_BEACH.pac
+	st_village2023.rel
+	Smashville_Concert.tlst
+	SFX / GFX: 0x0064 / 0x0032
+	Flags: OldSubstage
+
+################
+Smashville2023_YZ.param
+
+	STGSMASHVILLE2023_Z_SV_OCEAN.pac
+	st_village2023.rel
+	Smashville_Concert.tlst
+	SFX / GFX: 0x0064 / 0x0032
+	Flags: OldSubstage
+
+################
+Smashville2023_Z.param
+
+	STGSMASHVILLE2023_Z_SV_OCEAN.pac
+	st_village2023.rel
+	Smashville_Tropical.tlst
+	SFX / GFX: 0x0064 / 0x0032
+
+################
 Smashville_L.param
 
 	STGSMASHVILLE_L_SV_SAKURA.pac
@@ -2057,9 +2184,11 @@ Temple_Z.param
 ################
 Training.param
 
-	STGTRAININGROOM.pac
-	st_mansion.rel
-	Training_Room.tlst
+	STGLETHALLEAGUE.pac
+	st_lethalleague.rel
+	Lethal_League.tlst
+	SFX / GFX: 0x0053 / 0x0032
+	Flags: FixedCamera
 
 ################
 Training_L.param
@@ -2078,9 +2207,9 @@ Training_LR.param
 ################
 Training_R.param
 
-	STGTRAININGROOM_R_PS2_P+.pac
-	st_final.rel
-	P+_Stadium.tlst
+	STGTRAININGROOM.pac
+	st_mansion.rel
+	Training_Room.tlst
 	SFX / GFX: 0xFFFF / 0x0033
 
 ################

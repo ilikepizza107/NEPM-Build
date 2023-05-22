@@ -243,14 +243,14 @@ Z: Fourside_Z.param
 ################
 21.asl - 8 entries
 
-Base: Smashville.param
-Y: Smashville_Y.param
-R: Smashville_R.param
-Y+R: Smashville_YR.param
-L: Smashville_L.param
-Y+L: Smashville_YL.param
-Z: Smashville_Z.param
-Y+Z: Smashville_YZ.param
+Base: Smashville2023.param
+Y: Smashville2023_Y.param
+R: Smashville2023_R.param
+Y+R: Smashville2023_YR.param
+L: Smashville2023_L.param
+Y+L: Smashville2023_YL.param
+Z: Smashville2023_Z.param
+Y+Z: Smashville2023_YZ.param
 
 
 ################
@@ -342,18 +342,18 @@ Z: Onett_Z.param
 ################
 2D.asl - 5 entries
 
-Base: Dream_Land.param
-R: Dream_Land_R.param
-L: Dream_Land_L.param
-Z: Dream_Land_Z.param
+Base: Dream_Land2023.param
+R: Dream_Land2023_R.param
+L: Dream_Land2023_L.param
+Z: Dream_Land2023_Z.param
 Y: Dream_Land_Y.param
 
 
 ################
 2E.asl - 5 entries
 
-Base: Pokemon_Stadium_2.param
-R: Pokemon_Stadium_2_R.param
+Base: Grimewall_Stadium.param
+R: Pokemon_Stadium_2.param
 L: Pokemon_Stadium_2_L.param
 Z: Pokemon_Stadium_2_Z.param
 X: Pokemon_Stadium_2_X.param
