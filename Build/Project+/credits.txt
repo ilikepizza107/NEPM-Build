@@ -172,12 +172,8 @@ AltZ - Metal Knuckles by SJS [https://gamebanana.com/mods/323365]
 
 
 ########################
-STAGES [ILPM Toggle]
+STAGES [2023 Toggle]
 ########################
-
-PICTOCHAT
-Base - P+BR Pictochat by Motobug
-R - P+BR Dark Mode Pictochat by ilikepizza107, Motobug
 
 POKEMON STADIUM 2
 Base - GrimeWall PS2 by ilikepizza107
