@@ -143,6 +143,7 @@ AltZ - Guts by ilikepizza107, with credit to ASideOfChidori for the model and Ro
 R.O.B.
 
 JIGGLYPUFF
+15 - SgtPingwen Puff by ilikepizza107, with credit to Rocky38
 
 WARIO
 
@@ -176,21 +177,10 @@ Base - P+BR Pictochat by Motobug
 R - P+BR Dark Mode Pictochat by ilikepizza107, Motobug
 
 POKEMON STADIUM 2
-Base - NE PS2 by ilikepizza107
-
-HYRULE MEADOWS [PIRATE SHIP]
-Base -  Hyrule Meadows by Motobug
-L - Pirate Ship Meadows by Star (Aus)
-R - Aurora Meadows by influenza
-Z - Planet's Core Meadows by Star (Aus)
-Y - Flooded Cave Meadows by Star (Aus)
+Base - GrimeWall PS2 by ilikepizza107
 
 SMASHVILLE
-Base - Gardenville by pharoahfawcett, Red93, tsukikomi, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=209193]
- -IL Smashville plat animation by Motobug
-
-YOSHI'S STORY
-Base - P+BR/IL Yoshi's Story by Kirbeast, ghosts removed and blast zone edits by ilikepizza107
+ -2023 Smashville plat animation by Motobug
 
 HAMMER EXPRESS
 Base - Hammer Express by Nezha the Scout, KingJigglypuff, Ryztiq, Kirbeast, fudgepop01, eon_tas, Survivian, Electropolitan [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220257]
@@ -202,4 +192,4 @@ MENUS
 
 New "Ready To Fight!" Model by Xenthos
 
-Grimewall Dome/NEP+ CSS and SSS logos by Y G L
+Grimewall Dome CSS and SSS logos by Y G L
