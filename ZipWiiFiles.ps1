@@ -1,1 +1,0 @@
-Compress-Archive -Path ./Build/ "NEPM Wii Build.zip"
