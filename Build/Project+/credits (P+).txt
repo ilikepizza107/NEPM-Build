@@ -471,10 +471,10 @@ AltZ - NES Meta Knight by Dapperman
 
 PIT
 Pose by davidvkimball, model polish by tryptech, rendered by CSProject Backroom
-06 - Fruit Pit by Layell
-07 - Viridi Green Pit by Layell
-08 - Purple Pit by Layell
-09 - Centurion Pit by Layell
+05 - Fruit Pit by Layell
+06 - Viridi Green Pit by Layell
+07 - Purple Pit by Layell
+08 - Centurion Pit by Layell
 20 - Classic Pit by SJS, KingJigglypuff, and the P+ Art Team, credit to PMDT
 21 - Red Classic Pit by SJS, KingJigglypuff, and the P+ Art Team, credit to PMDT
 22 - Green Classic Pit by SJS, KingJigglypuff, and the P+ Art Team, credit to PMDT
@@ -543,11 +543,11 @@ Pose by davidvkimball, model polish by tryptech, rendered by CSProject Backroom
 08 - Emerald Diddy Kong by Layell
 09 - Sky Blue Diddy Kong by Layell, Moe
 10 - Black Diddy Kong by Moe
-20 - Hooded Diddy by HyperLink, Vinegar, AlGeorgeRomo, bizzozeron
-21 - Red Hooded Diddy recolor by HyperLink, Vinegar, AlGeorgeRomo, bizzozeron, Layell
-22 - Green Hooded Diddy recolor by HyperLink, Vinegar, AlGeorgeRomo, bizzozeron, Layell
-23 - Yellow Hooded Diddy recolor by HyperLink, Vinegar, AlGeorgeRomo, bizzozeron, Layell
-24 - Black Hooded Diddy recolor by HyperLink, Vinegar, AlGeorgeRomo, bizzozeron, Layell
+20 - Hooded Diddy Kong Revamp by ART+, SJ, and tyle, original by HyperLink, Vinegar, AlGeorgeRomo, bizzozeron, Layell
+21 - Red Hooded Diddy Revamp recolor by ART+, SJ, and tyle, original by HyperLink, Vinegar, AlGeorgeRomo, bizzozeron, Layell
+22 - Green Hooded Diddy Revamp recolor by ART+, SJ, and tyle, original by HyperLink, Vinegar, AlGeorgeRomo, bizzozeron, Layell
+23 - Black Hooded Diddy Revamp recolor by ART+, SJ, and tyle, original by HyperLink, Vinegar, AlGeorgeRomo, bizzozeron, Layell
+24 - Yellow Hooded Diddy Revamp recolor by ART+, SJ, and tyle, original by HyperLink, Vinegar, AlGeorgeRomo, bizzozeron, Layell
 AltR - Diddy Kong Jr. by ART+, additional fixes by Layell
 AltZ - Striker Diddy by ART+, additional fixes by Layell
 
@@ -848,7 +848,7 @@ Crate/Barrel normalization by Motobug, HyperFlame, KingJigglypuff and DukeItOut
 BATTLEFIELD
 Base - Battlefield by PMDT with lighting fixes by DukeItOut and Mawwwk
 L - Battlefield (Melee) by the PMDT, with texture fixes by sporksparks and DukeItOut
-R - Lunar Battlefield by Nezha the Scout, soopercool101, Layell, and DukeItOut
+R - Lunar Battlefield by Nezha the Scout, Kapedani, GRAND AZEL, Puzzled, soopercool101, Layell, and DukeItOut
 Z - Torn Sky Battlefield by Dranakar, Scout, WorseDoughnut, MarioDox, davidvkimball, soopercool101
 Y - Battlefield (N64) by Mewtwo2000, Yohan1044, mawwwk
 
@@ -863,7 +863,7 @@ R - Delfino's Secret Plaza by davidvkimball, WorseDoughnut, MarioDox with credit
 Z - Toy Time Galaxy by Nezha the Scout, Taiko, iwantgames with credit to LegacyWolf, Peardian, SpaceCats, ThatStruggleThough, PMDT for camera, lighting changes by DukeItOut, MarioDox
 
 LUIGI'S MANSION
-Base - Luigi's Mansion '23 by Motobug, ilikepizza107, Yorch and mawwwk with credit to WorseDoughnut and Edwguard Flows
+Base - Luigi's Mansion '23 by Motobug, ilikepizza107, Yorch and mawwwk with credit to WorseDoughnut, Edwguard Flows, MetalLegacy, tyleto and Survivian
 L - King Boo's Illusion by Scout, soopercool101, Cahalan, DukeItOut
 R - Deck Dry Bones '23 by Motobug, mawwwk, and Yorch with credit to Electropolitan 
 
@@ -989,7 +989,7 @@ R - Shadow Moses Stadium by MarioDox, davidvkimball with credit to Olimario1892,
 Z - ShadowFair by WorseDoughnut, davidvkimball, DukeItOut, mawwwk with credit to the PMDT for the stage upon which it's based.
 
 GREEN HILL ZONE
-Base  - Green Hill Zone Revamp by The Project+ Art team, nnebf, Kirbeast, GRAND AZEL,  and tyleto, credit to the PMDT
+Base  - Green Hill Zone Revamp by The Project+ Art team, nnebf, Kirbeast, GRAND AZEL, mawwwk, and tyleto, credit to the PMDT
 R     - Green Hill Zone PM by the PMDT, with texture fixes by DukeItOut and mawwwk, shadow fixes by mawwwk and WorseDoughnut, and redirect improvements by soopercool101, optimization by Snoe
 L     - Marble Hill Zone by davidvkimball, WorseDoughnut, TheGag96, Yohan1044, DukeItOut, Layell, mawwwk, Kirbeast, soopercool101 with credit to Szasz, Katakiri, pharoahfawcett, and the PMDT
 Z     - Radical Highway Zone by nnebf, snoe with credit to PMDT
@@ -1111,7 +1111,7 @@ Z     - Jungle Hijynx (back section) by DukeItOut, H!perLink, WorseDoughnut
 
 OIL DRUM ALLEY
 Base  - Oil Drum Alley by Nezha the Scout, BustedSoda with credit to Mattress87, Tonberry2k, MarioDox, SooperCool, Umbravivens, Peardian, Russmars2, FancyEX, mawwwk
-L     - The Flying Krock by DukeItOut, davidvkimball, Yohan1044, Scout, ,awwwk with credit to Peardian for the models, thecoolguyXJ9 for the import, and BullockDS for the K. Rool Heads, optimizations by Layell
+L     - The Flying Krock by DukeItOut, davidvkimball, Yohan1044, Scout, mawwwk with credit to Peardian for the models, thecoolguyXJ9 for the import, and BullockDS for the K. Rool Heads, optimizations by Layell
 R     - Fear Factory WW by Mariodox, Nezha the Scout, BustedSoda with credit to BustedSoda, Malistaticy, MarioDox, SooperCool, Russmars2, Mattress87, 
 			Tonberry2k, TheUltimateKoopa, Umbravivens, Peardian, mawwwk, Legacy Team
 Z     - Fear Factory RF	by Nezha the Scout, BustedSoda with credit to BustedSoda, Malistaticy, MarioDox, SooperCool, Russmars2, Mattress87, 
