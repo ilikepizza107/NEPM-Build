@@ -1,11 +1,11 @@
 BATTLEFIELD
--Boss Battle 1 (Kid Icarus Uprising)
--Deep Drop (Kingdom Hearts)
--The Extreme (Final Fantasy VIII)
+-Boss Battle 1 (Kid Icarus)
 -Challengers (DBZ Budokai)
--Yin Yang (Persona 4)
--Mechanical Halo (Neon White)
+-Deep Drop (Kingdom Hearts)
+-Exothermic (Mighty Switch Force 2)
+-The Extreme (Final Fantasy VIII)
 -Pillars of the Underworld (Guilty Gear)
+-Still, Move Forward! (Xenoblade Chronicles 2)
 
 DELFINOS SECRET
 -JENOVA (FFVII)
@@ -13,13 +13,13 @@ DELFINOS SECRET
 -Buoy Base Galaxy (Super Mario Galaxy)
 
 DREAM LAND
--Vainglorious Chorus (Neon White)
--Tower of Heaven (Rivals of Aether)
--Moonsiders 1st (Tekken 7)
+-Aqua Star (Kirby 64)
+-Fluid Air (Sonic Before the Sequel)
 -Laser Lab (Kirby Planet Robobot)
--Pleather for Breakfast (No More Heroes)
--Aqua Star (Kirby 64 The Crystal Shards)
 -Love You Love You Love (Mighty Switch Force)
+-Tower of Heaven (Rivals of Aether)
+-Vainglorious Chorus (Neon White)
+-Zip (Bomberman Hero)
 
 FINAL DESTINATION
 -Fight with Seymour (FFX)
@@ -37,12 +37,10 @@ FOUNTAIN OF DREAMS
 FRIGATE HUSK
 -Battle 2 (FF Mystic Quest)
 -Battle at the Big Bridge (FFV)
+-Boss Theme (Final Fantasy IV)
 -Castle Vein (ULTRAKILL)
 -Force Your Way (FFVIII)
 -That Persons Name Is (Bravely Default)
--Vambee Church (Brave Fencer Musashi)
--Exothermic (Mighty Switch Force 2)
--Versus (ULTRAKILL)
 
 GREEN HILL ZONE
 -Simple Life (Guilty Gear XX)
@@ -58,28 +56,29 @@ GREEN HILL ZONE
 -Penny Battle (Pokemon Scarlet & Violet)
 
 LUIGI'S MANSION
--The Show (Castle Crashers)
--Level 3 (DROD)
--Sophisticated Fight (Zanmai)
--Fun Chase (Zatch Bell)
--Rigged Game (Neon White)
--Keyblade Cycle (Kingdom Hearts 3D)
+-Battle - Ferocity (Shin Megami Tensei V)
+-Dante Battle (SMT 3)
+-Haunted Ship (Sonic Rush Adventure)
+-Pepperman Strikes! (Pizza Tower)
+-Vambee Church (Brave Fencer Musashi)
+-V Commander Aim (Custom Robo V2)
 
 MENU 
 -Actor's Anteroom (Melty Blood Actress Again)
 -Bloody Sneakers (Neon White)
--Neon Bar (Neon White)
--Mayhem Dressed in a Suit (Payday 2)
--Sun (Persona 3 Portable)
--Sakura Theme (SF Alpha 2)
--Under the Ocean (Super Monkey Ball 2)
--Special Stage JPN (Sonic CD)
--School Days (Persona PSP)
--Ocean (Guilty Gear Xrd)
--Real Universe (SMT Nocturne)
 -Cavern of Remembrance (Kingdom Hearts 2.5)
 -Gator Gambol (OMORI)
+-Mayhem Dressed in a Suit (Payday 2)
+-Neon Bar (Neon White)
+-Ocean (Guilty Gear Xrd)
+-Real Universe (SMT Nocturne)
+-Sakura Theme (SF Alpha 2)
+-School Days (Persona PSP)
+-Special Stage JPN (Sonic CD)
+-Spunky (Street Fighter III 3rd Strike)
+-Sun (Persona 3 Portable)
 -Theme of Splash Canyon (Sonic Riders)
+Under the Ocean (Super Monkey Ball 2)
 
 METAL CAVERN
 -Rude Buster (Deltarune)
@@ -90,41 +89,33 @@ METAL CAVERN
 -Crimson (Street Fighter Alpha 3)
 
 POKEMON STADIUM 2
--Anji's Theme (Guilty Gear)
--Home Sweet Grave (Guilty Gear Isuka)
--Pillars of the Underworld (Guilty Gear)
 -Amala Network (SMT 3)
--Dante Battle (SMT 3)
--Pendulum (Neon White)
--Dark Impetus (Kingdom Hearts Birth by Sleep)
--Livin' On The Deck (Metal Slug X)
 -Area Zero (Pokémon Scarlet & Violet)
--Vs Grunt (Pokémon Scarlet & Violet)
--Good Manners and Customs (Guilty Gear XX Accent Core Plus)
+-Bardock's Theme (Dragon Ball FighterZ)
+-Good Manners and Customs (Guilty Gear XX)
+-Home Sweet Grave (Guilty Gear Isuka)
+-Livin' On the Deck (Metal Slug X)
 
 RESULTS
 -Network Lobby Music (Darkstalkers)
 
 SMASHVILLE
 -Redial (Bomberman Hero)
--Dungeon (StarTropics)
--Heavenly Delight (Neon White)
 -Dreamer (Streets of Rage 2)
 -Go Straight (Streets of Rage 2)
--Art of Fighting (Fatal Fury Special)
--Rumors (Neon White)
--Arashi no Saxaphone 2 (KOF '96)
+-Arashi no Saxaphone (KOF '96)
+-Heavenly Delight (Neon White)
 -Momentary Life (Guilty Gear XX Accent Core Plus)
+-Snowland (Street Fighter III 3rd Strike)
+-Titanic Tower Act 3 (Sonic Before the Sequel)
 
 TEMPLE OF TIME
--Stand Your Ground (Final Fantasy XV)
--The Devoted-Black Knight (Fire Emblem)
--Lighting Chariot Base (Kid Icarus Uprising)
--Time to Fight! (Xenoblade Chronicles Deluxe Edition)
--You Will Know Our Names Finale (Xenoblade Chronicles 3)
+-Akira Battle (Shin Megami Tensei if...)
 -Battle C2 (Shin Megami Tensei IV)
--Battle - Ferocity (Shin Megami Tensei V)
+-The Devoted-Black Knight
 -Last Boss Battle 2 (Shin Megami Tensei NINE)
+-Time to Fight! (Xenoblade Chronicles DE)
+-You Will Know Our Names Finale (Xenoblade Chronicles 3)
 
 WARIO LAND
 -River Stage (Marvel vs Capcom 2)
@@ -133,9 +124,8 @@ WARIO LAND
 
 YOSHI'S ISLAND
 -Broken Moon (Touhou)
--This is True Love Makin (Capcom vs SNK)
--Casino Park (Sonic Heroes)
--Cephalobeat (Splatoon)
 -Fight or Flight (Neon White)
--Battle! Kanto Gym Leader (Pokemon HeartGold & SoulSilver)
+-Night Walker (Under Night In-Birth)
+-This is True Love Makin (Capcom vs SNK)
+-You Blow My Mind (Street Fighter III 3rd Strike)
 
