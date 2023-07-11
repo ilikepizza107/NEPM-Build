@@ -44,8 +44,23 @@ Battlefield.tlst - 16 tracks
 	Volume: 80
 	Frequency: 80
 
+	Challengers (DBZ Budokai)
+	Dragon Ball Z\Challengers (DBZ Budokai).brstm
+	Volume: 80
+	Frequency: 80
+
 	Deep Drop (Kingdom Hearts)
 	Kingdom Hearts\Deep Drop (Kingdom Hearts).brstm
+	Volume: 80
+	Frequency: 80
+
+	Exothermic (Mighty Switch Force 2)
+	Mighty Switch Force\Exothermic (Mighty Switch Force 2).brstm
+	Volume: 55
+	Frequency: 80
+
+	The Extreme (Final Fantasy VIII)
+	Final Fantasy\The Extreme (Final Fantasy VIII).brstm
 	Volume: 80
 	Frequency: 80
 
@@ -54,24 +69,9 @@ Battlefield.tlst - 16 tracks
 	Volume: 80
 	Frequency: 80
 
-	Yin Yang (Persona 4)
-	Persona\Yin Yang (Persona 4).brstm
+	Still, Move Forward! (Xenoblade Chronicles 2)
+	Xenoblade/Still, Move Forward! (Xenoblade Chronicles 2).brstm
 	Volume: 80
-	Frequency: 80
-
-	The Extreme (Final Fantasy VIII)
-	Final Fantasy\The Extreme (Final Fantasy VIII).brstm
-	Volume: 80
-	Frequency: 80
-
-	Challengers (DBZ Budokai)
-	Dragon Ball Z\Challengers (DBZ Budokai).brstm
-	Volume: 80
-	Frequency: 80
-
-	Mechanical Halo (Neon White)
-	Neon White\Mechanical Halo (Neon White).brstm
-	Volume: 60
 	Frequency: 80
 
 ################
@@ -707,7 +707,7 @@ Draculas_Castle.tlst - 1 track
 	Frequency: 40
 
 ################
-Dream_Land.tlst - 13 tracks
+Dream_Land.tlst - 12 tracks
 
 	King Dedede's Theme
 	F02.brstm (0x2758)
@@ -730,19 +730,14 @@ Dream_Land.tlst - 13 tracks
 	F09.brstm (0x275F)
 	Frequency: 0
 
-	Vainglorious Chorus (Neon White)
-	Neon White\Vainglorious Chorus (Neon White).brstm
-	Volume: 75
-	Frequency: 80
-
-	Tower of Heaven (Rivals of Aether)
-	Rivals of Aether\Tower of Heaven (Rivals of Aether).brstm
+	Aqua Star (Kirby 64)
+	Kirby\Aqua Star (Kirby 64 The Crystal Shards).brstm
 	Volume: 80
 	Frequency: 80
 
-	Moonsiders 1st (Tekken 7)
-	Tekken\Moonsiders 1st (Tekken 7).brstm
-	Volume: 70
+	Fluid Air (Sonic Before the Sequel)
+	Sonic/Fluid Air (Sonic Before the Sequel).brstm
+	Volume: 80
 	Frequency: 80
 
 	Laser Lab (Kirby Planet Robobot)
@@ -750,24 +745,24 @@ Dream_Land.tlst - 13 tracks
 	Volume: 85
 	Frequency: 80
 
-	Pleather for Breakfast (No More Heroes)
-	No More Heroes\Pleather for Breakfast (No More Heroes).brstm
-	Volume: 80
-	Frequency: 80
-
 	Love You Love You Love (Mighty Switch Force)
 	Mighty Switch Force\Love You Love You Love (Mighty Switch Force).brstm
 	Volume: 60
 	Frequency: 80
 
-	Aqua Star (Kirby 64)
-	Kirby\Aqua Star (Kirby 64 The Crystal Shards).brstm
+	Tower of Heaven (Rivals of Aether)
+	Rivals of Aether\Tower of Heaven (Rivals of Aether).brstm
 	Volume: 80
 	Frequency: 80
 
-	Night Walker (Under Night In-Birth)
-	Under Night\Night Walker (Under Night In-Birth).brstm
-	Volume: 100
+	Vainglorious Chorus (Neon White)
+	Neon White\Vainglorious Chorus (Neon White).brstm
+	Volume: 75
+	Frequency: 80
+
+	Zip (Bomberman Hero)
+	Bomberman/Zip (Bomberman Hero).brstm
+	Volume: 80
 	Frequency: 80
 
 ################
@@ -960,7 +955,7 @@ Fourside.tlst - 2 tracks
 	Frequency: 40
 
 ################
-Frigate_Husk.tlst - 9 tracks
+Frigate_Husk.tlst - 6 tracks
 
 	Battle 2 (FF Mystic Quest)
 	Final Fantasy\Battle 2 (Final Fantasy Mystic Quest).brstm
@@ -969,6 +964,11 @@ Frigate_Husk.tlst - 9 tracks
 
 	Battle at the Big Bridge (FFV)
 	Final Fantasy\Battle at the Big Bridge (Final Fantasy V).brstm
+	Volume: 80
+	Frequency: 80
+
+	Boss Theme (Final Fantasy IV)
+	Final Fantasy/Boss Theme (Final Fantasy IV).brstm
 	Volume: 80
 	Frequency: 80
 
@@ -984,26 +984,6 @@ Frigate_Husk.tlst - 9 tracks
 
 	That Persons Name Is (Bravely Default)
 	Bravely Default\That Persons Name Is (Bravely Default).brstm
-	Volume: 80
-	Frequency: 80
-
-	Vambee Church (Brave Fencer Musashi)
-	Brave Fencer Musashi\Vambee Church (Brave Fencer Musashi).brstm
-	Volume: 75
-	Frequency: 80
-
-	Full Steam Vengeance (Rivals of Aether)
-	Rivals of Aether\Full Steam Vengeance (Rivals of Aether).brstm
-	Volume: 80
-	Frequency: 80
-
-	Exothermic (Mighty Switch Force 2)
-	Mighty Switch Force\Exothermic (Mighty Switch Force 2).brstm
-	Volume: 80
-	Frequency: 80
-
-	Versus (ULTRAKILL)
-	ULTRAKILL/Versus (ULTRAKILL).brstm
 	Volume: 80
 	Frequency: 80
 
@@ -1407,7 +1387,7 @@ Lethal_League.tlst - 2 tracks
 	Frequency: 80
 
 ################
-Luigis_Mansion.tlst - 9 tracks
+Luigis_Mansion.tlst - 8 tracks
 
 	Luigi's Mansion Theme
 	A09.brstm (0x271C)
@@ -1418,39 +1398,35 @@ Luigis_Mansion.tlst - 9 tracks
 	A05.brstm (0x2718)
 	Frequency: 0
 
-	The Show (Castle Crashers)
-	Castle Crashers\The Show (Castle Crashers).brstm
+	Battle - Ferocity (Shin Megami Tensei V)
+	Shin Megami Tensei/Battle - Ferocity (Shin Megami Tensei V).brstm
+	Volume: 65
+	Frequency: 80
+	Song delay: -1
+
+	Dante Battle (SMT 3)
+	Shin Megami Tensei\Dante Battle (Shin Megami Tensei 3).brstm
 	Volume: 80
 	Frequency: 80
 
-	Level 3 (DROD)
-	DROD\Level 3 (DROD).brstm
+	Haunted Ship (Sonic Rush Adventure)
+	Sonic/Haunted Ship (Sonic Rush Adventure).brstm
 	Volume: 75
 	Frequency: 80
 
-	Sophisticated Fight (Zanmai)
-	Zanmai\Sophisticated Fight (Zanmai).brstm
-	Volume: 70
-	Frequency: 80
-
-	Fun Chase (Zatch Bell)
-	Zatch Bell\Fun Chase (Zatch Bell).brstm
+	Pepperman Strikes! (Pizza Tower)
+	Pizza Tower/Pepperman Strikes! (Pizza Tower).brstm
 	Volume: 80
 	Frequency: 80
 
-	Rigged Game (Neon White)
-	Neon White\Rigged Game (Neon White).brstm
-	Volume: 80
+	Vambee Church (Brave Fencer Musashi)
+	Brave Fencer Musashi\Vambee Church (Brave Fencer Musashi).brstm
+	Volume: 75
 	Frequency: 80
 
 	V Commander Aim (Custom Robo V2)
 	Custom Robo V2\V Commander Aim.brstm
 	Volume: 95
-	Frequency: 80
-
-	Keyblade Cycle (Kingdom Hearts 3D)
-	Kingdom Hearts\Keyblade Cycle (Kingdom Hearts 3D).brstm
-	Volume: 80
 	Frequency: 80
 
 ################
@@ -1576,7 +1552,7 @@ Mario_Paint.tlst - 1 track
 	Frequency: 40
 
 ################
-Menu.tlst - 18 tracks
+Menu.tlst - 19 tracks
 
 	Menu 1
 	X02.brstm (0x26FA)
@@ -1604,8 +1580,13 @@ Menu.tlst - 18 tracks
 	Volume: 60
 	Frequency: 80
 
-	Neon Bar (Neon White)
-	Neon White\Neon Bar (Neon White).brstm
+	Cavern of Remembrance (Kingdom Hearts 2.5)
+	Kingdom Hearts\Cavern of Remembrance (Kingdom Hearts 2.5).brstm
+	Volume: 80
+	Frequency: 80
+
+	Gator Gambol (OMORI)
+	OMORI/Gator Gambol (OMORI).brstm
 	Volume: 80
 	Frequency: 80
 
@@ -1614,28 +1595,8 @@ Menu.tlst - 18 tracks
 	Volume: 80
 	Frequency: 80
 
-	Sun (Persona 3 Portable)
-	Persona\Sun (Persona 3 Portable).brstm
-	Volume: 80
-	Frequency: 80
-
-	Sakura Theme (SF Alpha 2)
-	Street Fighter\Sakura Theme (Street Fighter Alpha 2).brstm
-	Volume: 90
-	Frequency: 80
-
-	Under the Ocean (Super Monkey Ball 2)
-	Super Monkey Ball\Under the Ocean (Super Monkey Ball 2).brstm
-	Volume: 80
-	Frequency: 80
-
-	Special Stage JPN (Sonic CD)
-	Sonic\Special Stage JPN (Sonic CD).brstm
-	Volume: 80
-	Frequency: 80
-
-	School Days (Persona PSP)
-	Persona\School Days (Persona PSP).brstm
+	Neon Bar (Neon White)
+	Neon White\Neon Bar (Neon White).brstm
 	Volume: 80
 	Frequency: 80
 
@@ -1649,18 +1610,38 @@ Menu.tlst - 18 tracks
 	Volume: 80
 	Frequency: 80
 
-	Cavern of Remembrance (Kingdom Hearts 2.5)
-	Kingdom Hearts\Cavern of Remembrance (Kingdom Hearts 2.5).brstm
+	Sakura Theme (SF Alpha 2)
+	Street Fighter\Sakura Theme (Street Fighter Alpha 2).brstm
+	Volume: 90
+	Frequency: 80
+
+	School Days (Persona PSP)
+	Persona\School Days (Persona PSP).brstm
 	Volume: 80
 	Frequency: 80
 
-	Gator Gambol (OMORI)
-	OMORI/Gator Gambol (OMORI).brstm
+	Special Stage JPN (Sonic CD)
+	Sonic\Special Stage JPN (Sonic CD).brstm
+	Volume: 80
+	Frequency: 80
+
+	Spunky (Street Fighter III 3rd Strike)
+	Street Fighter/Spunky (Street Fighter III 3rd Strike).brstm
+	Volume: 80
+	Frequency: 80
+
+	Sun (Persona 3 Portable)
+	Persona\Sun (Persona 3 Portable).brstm
 	Volume: 80
 	Frequency: 80
 
 	Theme of Splash Canyon (Sonic Riders)
 	Sonic\Theme of Splash Canyon (Sonic Riders).brstm
+	Volume: 80
+	Frequency: 80
+
+	Under the Ocean (Super Monkey Ball 2)
+	Super Monkey Ball\Under the Ocean (Super Monkey Ball 2).brstm
 	Volume: 80
 	Frequency: 80
 
@@ -2102,7 +2083,7 @@ Pokemon_Stadium.tlst - 3 tracks
 	Song delay: -1
 
 ################
-Pokemon_Stadium_2.tlst - 15 tracks
+Pokemon_Stadium_2.tlst - 11 tracks
 
 	Pokémon Red & Blue Medley
 	W10.brstm (0x2808)
@@ -2123,13 +2104,8 @@ Pokemon_Stadium_2.tlst - 15 tracks
 	Frequency: 0
 	Song delay: 30
 
-	Anji's Theme (Guilty Gear)
-	Guilty Gear\Anji's Theme (Guilty Gear).brstm
-	Volume: 80
-	Frequency: 80
-
-	Home Sweet Grave (Guilty Gear Isuka)
-	Guilty Gear\Home Sweet Grave (Guilty Gear Isuka).brstm
+	Battle! Kanto Gym Leader (HG & SS)
+	Pokemon/Battle! Kanto Gym Leader (HGSS).brstm
 	Volume: 80
 	Frequency: 80
 
@@ -2138,34 +2114,8 @@ Pokemon_Stadium_2.tlst - 15 tracks
 	Volume: 80
 	Frequency: 80
 
-	Dante Battle (SMT 3)
-	Shin Megami Tensei\Dante Battle (Shin Megami Tensei 3).brstm
-	Volume: 80
-	Frequency: 80
-
-	Dark Impetus (Kingdom Hearts BBS)
-	Kingdom Hearts/Dark Impetus (Kingdom Hearts BBS).brstm
-	Volume: 82
-	Frequency: 80
-	Song delay: -1
-
-	Livin' On the Deck (Metal Slug X)
-	Metal Slug\Livin On the Deck (Metal Slug X).brstm
-	Volume: 85
-	Frequency: 80
-
-	Pendulum (Neon White)
-	Neon White\Pendulum (Neon White).brstm
-	Volume: 80
-	Frequency: 80
-
 	Area Zero (Pokémon Scarlet & Violet)
 	Pokemon\Area Zero (Pokemon Scarlet & Violet).brstm
-	Volume: 80
-	Frequency: 80
-
-	Vs Grunt (Pokémon Scarlet & Violet)
-	Pokemon\Vs Grunt (Pokemon Scarlet & Violet).brstm
 	Volume: 80
 	Frequency: 80
 
@@ -2178,6 +2128,16 @@ Pokemon_Stadium_2.tlst - 15 tracks
 	Good Manners and Customs (Guilty Gear XX)
 	Guilty Gear\Good Manners and Customs (Guilty Gear XX Accent Core Plus).brstm
 	Volume: 95
+	Frequency: 80
+
+	Home Sweet Grave (Guilty Gear Isuka)
+	Guilty Gear\Home Sweet Grave (Guilty Gear Isuka).brstm
+	Volume: 80
+	Frequency: 80
+
+	Livin' On the Deck (Metal Slug X)
+	Metal Slug\Livin On the Deck (Metal Slug X).brstm
+	Volume: 85
 	Frequency: 80
 
 ################
@@ -2774,7 +2734,7 @@ Sky_Sanctuary.tlst - 2 tracks
 	Frequency: 40
 
 ################
-Smashville.tlst - 18 tracks
+Smashville.tlst - 15 tracks
 
 	Go K.K. Rider!
 	N02.brstm (0x27B4)
@@ -2810,11 +2770,6 @@ Smashville.tlst - 18 tracks
 	Volume: 80
 	Frequency: 90
 
-	Dungeon (StarTropics)
-	StarTropics\Dungeon (StarTropics).brstm
-	Volume: 80
-	Frequency: 40
-
 	Dreamer (Streets of Rage 2)
 	Streets of Rage\Dreamer (Streets of Rage 2).brstm
 	Volume: 130
@@ -2825,8 +2780,8 @@ Smashville.tlst - 18 tracks
 	Volume: 80
 	Frequency: 80
 
-	Art of Fighting (Fatal Fury Special)
-	Fatal Fury\Art of Fighting (Fatal Fury Special).brstm
+	Arashi no Saxaphone (KOF '96)
+	King of Fighters\Arashi no Saxaphone 2 (KOF '96).brstm
 	Volume: 80
 	Frequency: 80
 
@@ -2835,29 +2790,19 @@ Smashville.tlst - 18 tracks
 	Volume: 80
 	Frequency: 80
 
-	Caught Red Handed (Mighty Switch Force)
-	Mighty Switch Force\Caught Red Handed (Mighty Switch Force).brstm
-	Volume: 80
-	Frequency: 80
-
-	Rumors (Neon White)
-	Neon White\Rumors (Neon White).brstm
-	Volume: 80
-	Frequency: 80
-
-	Arashi no Saxaphone (KOF '96)
-	King of Fighters\Arashi no Saxaphone 2 (KOF '96).brstm
-	Volume: 80
-	Frequency: 80
-
-	Duck King Theme (Fatal Fury Special)
-	Fatal Fury\Duck King Theme (Fatal Fury Special).brstm
-	Volume: 80
-	Frequency: 80
-
 	Momentary Life (Guilty Gear XX Accent Core Plus)
 	Guilty Gear/Momentary Life (Guilty Gear XX Accent Core Plus).brstm
 	Volume: 70
+	Frequency: 80
+
+	Snowland (Street Fighter III 3rd Strike)
+	Street Fighter/Snowland (Street Fighter III 3rd Strike).brstm
+	Volume: 80
+	Frequency: 80
+
+	Titanic Tower Act 3 (Sonic Before the Sequel)
+	Sonic\Titanic Tower - Act 3 (Sonic Before the Sequel).brstm
+	Volume: 80
 	Frequency: 80
 
 ################
@@ -3020,7 +2965,7 @@ Temple.tlst - 5 tracks
 	Frequency: 40
 
 ################
-Temple_of_Time.tlst - 18 tracks
+Temple_of_Time.tlst - 16 tracks
 
 	Theme of Fire Emblem
 	J02.brstm (0x2783)
@@ -3066,10 +3011,16 @@ Temple_of_Time.tlst - 18 tracks
 	J03.brstm (0x2784)
 	Frequency: 0
 
-	Stand Your Ground (FFXV)
-	Final Fantasy\Stand Your Ground (Final Fantasy XV).brstm
+	Akira Battle (Shin Megami Tensei if...)
+	Shin Megami Tensei/Akira Battle (Shin Megami Tensei if...).brstm
 	Volume: 80
 	Frequency: 80
+	Song delay: -1
+
+	Battle C2 (Shin Megami Tensei IV)
+	Shin Megami Tensei/Battle C2 (Shin Megami Tensei IV).brstm
+	Volume: 70
+	Frequency: 100
 
 	The Devoted-Black Knight
 	Fire Emblem\The Devoted-Black Knight.brstm
@@ -3077,11 +3028,10 @@ Temple_of_Time.tlst - 18 tracks
 	Frequency: 80
 	Song delay: -1
 
-	Lighting Chariot Base (Kid Icarus)
-	Kid Icarus\Lightning Chariot Base (Kid Icarus Uprising).brstm
-	Volume: 80
-	Frequency: 70
-	Song delay: -1
+	Last Boss Battle 2 (Shin Megami Tensei NINE)
+	Shin Megami Tensei/Last Boss Battle 2 (Shin Megami Tensei NINE).brstm
+	Volume: 90
+	Frequency: 80
 
 	Time to Fight! (Xenoblade Chronicles DE)
 	Xenoblade/Time to Fight! (Xenoblade Chronicles DE).brstm
@@ -3090,24 +3040,10 @@ Temple_of_Time.tlst - 18 tracks
 	Song delay: 120
 
 	You Will Know Our Names Finale (Xenoblade Chronicles 3)
-	Xenoblade/You Will Know Our Names Finale (Xenoblade Chronicles 3).brstm
+	Xenoblade/You Will Know Our Names Finale.brstm
 	Volume: 76
-	Frequency: 80
-
-	Battle C2 (Shin Megami Tensei IV)
-	Shin Megami Tensei/Battle C2 (Shin Megami Tensei IV).brstm
-	Volume: 70
-	Frequency: 100
-
-	Battle - Ferocity (Shin Megami Tensei V)
-	Shin Megami Tensei/Battle - Ferocity (Shin Megami Tensei V).brstm
-	Volume: 65
-	Frequency: 80
-	Song delay: -1
-
-	Last Boss Battle 2 (Shin Megami Tensei NINE)
-	Shin Megami Tensei/Last Boss Battle 2 (Shin Megami Tensei NINE).brstm
-	Volume: 90
+	[PINCH MODE TRACK: 3600 frames]
+	Xenoblade/You Will Know Our Names Finale_b.brstm
 	Frequency: 80
 
 ################
@@ -3344,7 +3280,7 @@ Yoshis_Cookie.tlst - 1 track
 	Frequency: 40
 
 ################
-Yoshis_Island.tlst - 11 tracks
+Yoshis_Island.tlst - 10 tracks
 
 	Athletic (Yoshi's Island)
 	E02.brstm (0x2751)
@@ -3372,28 +3308,23 @@ Yoshis_Island.tlst - 11 tracks
 	Volume: 70
 	Frequency: 80
 
-	This is True Love Makin (Capcom vs SNK)
-	Capcom vs SNK\This Is True Love Makin (Capcom vs SNK 2).brstm
-	Volume: 80
-	Frequency: 80
-
-	Casino Park (Sonic Heroes)
-	Sonic\Casino Park Zone (Sonic Heroes).brstm
-	Volume: 80
-	Frequency: 80
-
-	Cephalobeat (Splatoon)
-	Splatoon\Cephalobeat (Splatoon).brstm
-	Volume: 80
-	Frequency: 80
-
 	Fight or Flight (Neon White)
 	Neon White\Fight or Flight (Neon White).brstm
 	Volume: 75
 	Frequency: 80
 
-	Battle! Kanto Gym Leader (HG & SS)
-	Pokemon/Battle! Kanto Gym Leader (HGSS).brstm
+	Night Walker (Under Night In-Birth)
+	Under Night\Night Walker (Under Night In-Birth).brstm
+	Volume: 100
+	Frequency: 80
+
+	This is True Love Makin (Capcom vs SNK)
+	Capcom vs SNK\This Is True Love Makin (Capcom vs SNK 2).brstm
+	Volume: 80
+	Frequency: 80
+
+	You Blow My Mind (Street Fighter III 3rd Strike)
+	Street Fighter/You Blow My Mind (Street Figher III 3rd Strike).brstm
 	Volume: 80
 	Frequency: 80
 
