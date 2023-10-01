@@ -107,9 +107,9 @@ HOOK @ $806b2fdc
 HOOK @ $806b2fe8
 {
 	lis r12, 0x460D				# \
-	ori r12, r12, 0x7C00		# | Write first word worth of 9055 into memory
+	ori r12, r12, 0x9400		# | Write first word worth of 9061 into memory
 	stw r12, 0x08(r1)			# | Store it at 0x08(r1)
-	lfs f31, 0x08(r1)			# / Load it into fr31, overwriting the normal 505.
+	lfs f31, 0x08(r1)			# / Load it into fr31, overwriting the normal 511.
 }
 
 ###################################################################
