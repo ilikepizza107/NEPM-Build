@@ -103,11 +103,11 @@ HOOK @ $806B2FD4
   mflr r12          # Move ptr to float hex to r12
   lfs f0, 0x00(r12) # Load the encoded float into f0
 }
-# Stage Select Random CPU Stock Icons Fix
+# Stage Select Random CPU Stock Icons Fix (Color Code Ver.)
 HOOK @ $806B2FE8
 {
   bl floatEncode
-  word 0x460D7C00    # 9055 in hex encoding
+  word 0x460D9400    # 9061 in hex encoding
   floatEncode:
   mflr r12           # Move ptr to float hex to r12
   lfs f31, 0x00(r12) # Load the encoded float into f31
