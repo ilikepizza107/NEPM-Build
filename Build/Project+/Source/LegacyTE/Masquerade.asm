@@ -98,7 +98,7 @@ notWarioman:
 HOOK @ $806B2FD4
 {
   bl floatEncode
-  word 0x460d6c00   # 9051 in hex encoding
+  word 0x460D6C00   # 9051 in hex encoding
   floatEncode:
   mflr r12          # Move ptr to float hex to r12
   lfs f0, 0x00(r12) # Load the encoded float into f0
