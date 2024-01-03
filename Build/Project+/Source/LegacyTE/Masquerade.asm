@@ -83,35 +83,20 @@ byte 50 		    @ $80692507
 byte[4] 0x30, 0x34, 0x64, 0 @ $806A17D8
 
 ################################################################
-[Brawl-Themed P+] Stage Select Screen Supports 50CC [QuickLava]
-V1.1: Slight instruction optimization [QuickLava, ilikepizza107]
+[Brawl-Themed P+] Stage Select Screen Supports 50CC v1.0.1 [QuickLava]
 ################################################################
 # Stage Select Stock Icons 50CC Fix
-HOOK @ $806B2FFC
+HOOK @ $806b2ffc
 {
-      cmpwi r25, 0x36;   bne+ notWarioman        # 0x36 isn't a mistake.
-     li r3, 9000; b %END%                    # Not sure why it's not 0x35 like in the above codes.
+  	cmpwi r25, 0x36;   bne+ notWarioman		# 0x36 isn't a mistake.
+ 	li r3, 9000; b %END%					# Not sure why it's not 0x35 like in the above codes.
 notWarioman:
-     mulli r3, r3, 50
+ 	mulli r3, r3, 50
 }
 # Stage Select Random Player Stock Icons Fix
-HOOK @ $806B2FD4
-{
-  bl floatEncode
-  word 0x460D6C00   # 9051 in hex encoding
-  floatEncode:
-  mflr r12          # Move ptr to float hex to r12
-  lfs f0, 0x00(r12) # Load the encoded float into f0
-}
-# Stage Select Random CPU Stock Icons Fix (Color Code Ver.)
-HOOK @ $806B2FE8
-{
-  bl floatEncode
-  word 0x460D9400    # 9061 in hex encoding
-  floatEncode:
-  mflr r12           # Move ptr to float hex to r12
-  lfs f31, 0x00(r12) # Load the encoded float into f31
-}
+# Overwrites the old constants the game used as the frames for Random Icons with our own 50CC compliant ones.
+# First value should be left as is, second value should be the first plus how many colored random icons you need!
+float[2] 9051.0f, 9061.0f @ $806B91B0
 
 ###################################################################
 [Legacy TE] Upload Character Masquerade Data At Startup [DukeItOut]

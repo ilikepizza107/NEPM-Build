@@ -160,7 +160,7 @@ WOLF
 Tag 'EXE' - S̸̲̔̓o̴̦̲̭͙̩̽́̎͊̈́̓ň̷̲͖͗͊̔̅ï̵͈̪̽͘c̷̡̛̺͉̱̥̔̍̑͗̀.̷̡̛̺̙̼͓̀̏̋͠͠e̵̢͕̺̗̤̬̽̔̕͝͝͠x̴̣̜̙̦̃͗̿̚̚é̶͈͎̲̤̉͋̏ ̴̨̘̟͌͆͛͆̊͘a̷̛̻͍̐̇̿̚͜l̶̘̈͐t̴̛͓͉͈̰̊̏̀̐ ̶̥͙̥͍́̐̔͆́̀͜f̶̢͋̋̈́ố̶̫̅̐r̴̼̋̌̃ ̵̙̮̑̀̂̂̕͠W̴̤̖̮͖̞̦̄͠o̶̲͍̜̦̯̳͛̅̽͝ḷ̷̖̋͝f̸̢̱̭̑͗̎̕ by KTH, BBreon [https://gamebanana.com/mods/247325]
 
 SNAKE
-AltR - Autumn Snake by AutumnVen
+06 - Autumn Snake by AutumnVen
 
 SONIC
 
@@ -181,7 +181,7 @@ POKEMON STADIUM 2
 Base - GrimeWall PS2 by ilikepizza107
 
 SMASHVILLE
- -2023 Smashville plat animation by Motobug
+All - 2023 Smashville plat animation by Motobug
 
 HAMMER EXPRESS
 Base - Hammer Express by Nezha the Scout, KingJigglypuff, Ryztiq, Kirbeast, fudgepop01, eon_tas, Survivian, Electropolitan [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220257]
@@ -193,4 +193,4 @@ MENUS
 
 New "Ready To Fight!" Model by Xenthos
 
-Grimewall Dome CSS and SSS logos by Y G L
+NEP+ CSS and SSS logos by Y G L
