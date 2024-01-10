@@ -20,6 +20,7 @@ SKINS
 ################
 
 MARIO
+40 - Penguin Mario by Ryztiq [http://www.mediafire.com/file/x22uxpptxd4tjr5/Mario_Penguin.zip/file]
 
 DONKEY KONG
 
