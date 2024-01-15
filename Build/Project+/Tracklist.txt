@@ -67,6 +67,7 @@ MENU
 -Actor's Anteroom (Melty Blood Actress Again)
 -Bloody Sneakers (Neon White)
 -Cavern of Remembrance (Kingdom Hearts 2.5)
+-Character Select Theme (Under Night In-Birth II)
 -Gator Gambol (OMORI)
 -Mayhem Dressed in a Suit (Payday 2)
 -Neon Bar (Neon White)
@@ -78,7 +79,7 @@ MENU
 -Spunky (Street Fighter III 3rd Strike)
 -Sun (Persona 3 Portable)
 -Theme of Splash Canyon (Sonic Riders)
-Under the Ocean (Super Monkey Ball 2)
+-Under the Ocean (Super Monkey Ball 2)
 
 METAL CAVERN
 -Rude Buster (Deltarune)

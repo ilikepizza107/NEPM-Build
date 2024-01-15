@@ -20,6 +20,7 @@ SKINS
 ################
 
 MARIO
+40 - Penguin Mario by Ryztiq [http://www.mediafire.com/file/x22uxpptxd4tjr5/Mario_Penguin.zip/file]
 
 DONKEY KONG
 
@@ -70,10 +71,11 @@ SHEIK
 30 Rosalina Sheik by jetfantastic [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=213577]
 
 ICE CLIMBERS
+06 - Mia Ice Climbers by ilikepizza107
 
 MARTH
 07 - Shifty Marth by ilikepizza107, SSK
-34 - Gunther Marth by ilikepizza107
+08 - Gunther Marth by ilikepizza107
 
 MR. GAME & WATCH
 17 - Elclid GnW by ilikepizza107
@@ -84,6 +86,7 @@ FALCO
 GANONDORF
 
 META KNIGHT
+06 - YGL Meta Knight by ilikepizza107
 24 - Kulprit Meta Knight by ilikepizza107
 35 - NES Meta Knight by Dapperman, cosmetics by Shy [https://www.mediafire.com/file/2wckofdzht1xrp6/NES+Meta+Knight+(P+)+Recolors+++Scene.zip/file]
 AltZ - One Winged Warrior by Shy [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220963]
@@ -135,6 +138,7 @@ AltR - Witch Ivy by MetalLegacy, StarWaffle, Ca$ino Wolf, TOCK
 
 DEDEDE
 30 - Robo D3 by ShadowLuigi~NG~ [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=207980 (Download link dead)]
+40 - YGL D3 by ilikepizza107, with credit to ubergruvin & Xenthos
 
 LUCARIO
 AltR - Midnight Guard by NeoZoa, with material edits by ilikepizza107 [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=6702]
@@ -159,7 +163,7 @@ WOLF
 Tag 'EXE' - S̸̲̔̓o̴̦̲̭͙̩̽́̎͊̈́̓ň̷̲͖͗͊̔̅ï̵͈̪̽͘c̷̡̛̺͉̱̥̔̍̑͗̀.̷̡̛̺̙̼͓̀̏̋͠͠e̵̢͕̺̗̤̬̽̔̕͝͝͠x̴̣̜̙̦̃͗̿̚̚é̶͈͎̲̤̉͋̏ ̴̨̘̟͌͆͛͆̊͘a̷̛̻͍̐̇̿̚͜l̶̘̈͐t̴̛͓͉͈̰̊̏̀̐ ̶̥͙̥͍́̐̔͆́̀͜f̶̢͋̋̈́ố̶̫̅̐r̴̼̋̌̃ ̵̙̮̑̀̂̂̕͠W̴̤̖̮͖̞̦̄͠o̶̲͍̜̦̯̳͛̅̽͝ḷ̷̖̋͝f̸̢̱̭̑͗̎̕ by KTH, BBreon [https://gamebanana.com/mods/247325]
 
 SNAKE
-AltR - Autumn Snake by AutumnVen
+06 - Autumn Snake by AutumnVen
 
 SONIC
 
@@ -180,7 +184,7 @@ POKEMON STADIUM 2
 Base - GrimeWall PS2 by ilikepizza107
 
 SMASHVILLE
- -2023 Smashville plat animation by Motobug
+All - 2023 Smashville plat animation by Motobug
 
 HAMMER EXPRESS
 Base - Hammer Express by Nezha the Scout, KingJigglypuff, Ryztiq, Kirbeast, fudgepop01, eon_tas, Survivian, Electropolitan [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220257]
@@ -192,4 +196,4 @@ MENUS
 
 New "Ready To Fight!" Model by Xenthos
 
-Grimewall Dome CSS and SSS logos by Y G L
+NEP+ CSS and SSS logos by Y G L
