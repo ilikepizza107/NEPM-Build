@@ -28,10 +28,6 @@ LINK
 27 - SgtPingwen Link by ilikepizza107
 
 SAMUS
-06 - Ultimate Black Samus by SJS, starwaffle, tryptech, Xenthos, and Rizzy [https://gamebanana.com/mods/247126]
-40 - Metroid Dread Power Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
-41 - Metroid Dread Gravity Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
-42 - Metroid Dread Metroid Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
 AltZ - SA-X by RedipsTheCooler, Afterthought, PMDT, SmashEmblem_guy, BlueLink, Moe, SJS, Xenozoa425, Rowsond [https://gamebanana.com/mods/388887]
 
 YOSHI
@@ -41,14 +37,14 @@ KIRBY
 
 FOX
 09 - Elclid Fox by ilikepizza107
-30 - James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
-31 - Red James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
-32 - Green James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
-33 - Blue James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
-34 - Purple James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
-35 - Black James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=218127]
+30 - James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://www.mediafire.com/file/uss5xjxiaktk286/James_McCloud_Recolor_Pack.zip/file]
+31 - Red James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://www.mediafire.com/file/uss5xjxiaktk286/James_McCloud_Recolor_Pack.zip/file]
+32 - Green James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://www.mediafire.com/file/uss5xjxiaktk286/James_McCloud_Recolor_Pack.zip/file]
+33 - Blue James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://www.mediafire.com/file/uss5xjxiaktk286/James_McCloud_Recolor_Pack.zip/file]
+34 - Purple James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://www.mediafire.com/file/uss5xjxiaktk286/James_McCloud_Recolor_Pack.zip/file]
+35 - Black James McCloud bizzozeron, mawwwk with credit to Tock for the original shades model, the PMDT for Melee Fox [https://www.mediafire.com/file/uss5xjxiaktk286/James_McCloud_Recolor_Pack.zip/file]
 36 - GAGE Fox by ilikepizza107
-AltZ - Peppy Hare by Lost Saltshaker [https://forums.kc-mm.com/Gallery/BrawlView.php?Number=17792]
+AltZ - Peppy Hare by Lost Saltshaker [https://www.mediafire.com/download/sbk8y0ppvfu4dqy/Peppy_Hare.rar]
 
 PIKACHU
 
@@ -64,11 +60,9 @@ PEACH
 
 ZELDA
 09 - Y G L Zelda by ilikepizza107
-30 - Tuck Zelda by Tuck, ilikepizza107, with credit to Hulkalex
 
 SHEIK
 09 - Y G L Sheik by ilikepizza107
-30 Rosalina Sheik by jetfantastic [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=213577]
 
 ICE CLIMBERS
 06 - Mia Ice Climbers by ilikepizza107
@@ -92,37 +86,30 @@ META KNIGHT
 AltZ - One Winged Warrior by Shy [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220963]
 
 PIT
-21 - Black Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
-40 - Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107 [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
-41 - Red Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
-42 - Green Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
-43 - Blue Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218745]; render scene by tyleto [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218746]
-AltR - Tekkaman Blade by Beyond [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=23426]
+21 - Black Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [https://www.mediafire.com/file/0ywaupry63z53r8/Three_Sacred_Treasures_Pit.rar/file]; render scene by tyleto [https://www.mediafire.com/file/wrw2jcxhfhe6s3u/3ST_Pit_CSProject_Cosmetics.rar/file]
+40 - Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107 [https://www.mediafire.com/file/0ywaupry63z53r8/Three_Sacred_Treasures_Pit.rar/file]; render scene by tyleto [https://www.mediafire.com/file/wrw2jcxhfhe6s3u/3ST_Pit_CSProject_Cosmetics.rar/file]
+41 - Red Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [https://www.mediafire.com/file/0ywaupry63z53r8/Three_Sacred_Treasures_Pit.rar/file]; render scene by tyleto [https://www.mediafire.com/file/wrw2jcxhfhe6s3u/3ST_Pit_CSProject_Cosmetics.rar/file]
+42 - Green Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [https://www.mediafire.com/file/0ywaupry63z53r8/Three_Sacred_Treasures_Pit.rar/file]; render scene by tyleto [https://www.mediafire.com/file/wrw2jcxhfhe6s3u/3ST_Pit_CSProject_Cosmetics.rar/file]
+43 - Blue Three Sacred Treasures Pit by tyleto, Wario358 with credit to KingDraco, Aurion, material edits by ilikepizza107, recolor textures by radzo73, [https://www.mediafire.com/file/0ywaupry63z53r8/Three_Sacred_Treasures_Pit.rar/file]; render scene by tyleto [https://www.mediafire.com/file/wrw2jcxhfhe6s3u/3ST_Pit_CSProject_Cosmetics.rar/file]
+AltR - Tekkaman Blade by Beyond [https://www.mediafire.com/?56tchzljzlc5h78]
 
 ZERO SUIT SAMUS
-06 - Smash 4 ZSS SJS Black recolor by MarioDox [https://gamebanana.com/mods/247143]
-40 - Dread Power Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
-41 - Dread Gravity Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
-42 - Metroid Suit ZSS by Chucklez, Ryztiq, jiang, Pik, StarWaffle, Albafika, KingJigglypuff, SJS, Nanobuds, Spex130, TOCK, Sandfall (optimized by moblin) [https://gamebanana.com/mods/372069]
 
 OLIMAR
 
 LUCAS
-26 - zLucas by SJS, Star
-27 - zLucas Green by SJS, Star
-28 - zLucas Red by SJS, Star
 
 DIDDY KONG
 
 MEWTWO
 25 - Shadow Armored Mewtwo_Project M 3.5 by LazyRed with credit to Project M, Ryztiq, RAWRzilla; Shadow Armored Mewtwo Cosmetics by Hulkalex [https://www.mediafire.com/file/s7bq2u17sanczm0/pokemon_Shadow_Pack.zip/file]
-40 - Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
-41 - Red Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
-42 - Green Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
-43 - Blue Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
-44 - Teal Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
-45 - Yellow Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
-46 - Black Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=218223]
+40 - Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [https://www.mediafire.com/file/ix9o2dl9qf2cc1q/Galaxy_Mewtwo_Recolor_Pack_2.5.zip/file]
+41 - Red Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [https://www.mediafire.com/file/ix9o2dl9qf2cc1q/Galaxy_Mewtwo_Recolor_Pack_2.5.zip/file]
+42 - Green Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [https://www.mediafire.com/file/ix9o2dl9qf2cc1q/Galaxy_Mewtwo_Recolor_Pack_2.5.zip/file]
+43 - Blue Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [https://www.mediafire.com/file/ix9o2dl9qf2cc1q/Galaxy_Mewtwo_Recolor_Pack_2.5.zip/file]
+44 - Teal Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [https://www.mediafire.com/file/ix9o2dl9qf2cc1q/Galaxy_Mewtwo_Recolor_Pack_2.5.zip/file]
+45 - Yellow Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [https://www.mediafire.com/file/ix9o2dl9qf2cc1q/Galaxy_Mewtwo_Recolor_Pack_2.5.zip/file]
+46 - Black Galaxy Mewtwo by kenmak, Moblin, cosmetics by Icezer [https://www.mediafire.com/file/ix9o2dl9qf2cc1q/Galaxy_Mewtwo_Recolor_Pack_2.5.zip/file]
 
 CHARIZARD
 10 - Big Doinks Charizard by ilikepizza107
@@ -130,11 +117,10 @@ CHARIZARD
 SQUIRTLE
 
 IVYSAUR
-30 - Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
-31 - Red Desert Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
-32 - Eryngo Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
-33 - Prickly Pear Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
-AltR - Witch Ivy by MetalLegacy, StarWaffle, Ca$ino Wolf, TOCK
+40 - Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
+41 - Red Desert Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
+42 - Eryngo Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
+43 - Prickly Pear Cactivy by MarioDox, Ghost1459908, Ike_Lawliet [https://gamebanana.com/mods/247417]
 
 DEDEDE
 30 - Robo D3 by ShadowLuigi~NG~ [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=207980 (Download link dead)]
@@ -172,19 +158,16 @@ WARIO MAN
 BOWSER
 
 KNUCKLES
-30 - HDK Knuckles by ilikepizza107 (Oringinal model by SJS, StarWaffle, and tryptech)
+40 - HDK Knuckles by ilikepizza107 (Oringinal model by SJS, StarWaffle, and tryptech)
 AltZ - Metal Knuckles by SJS [https://gamebanana.com/mods/323365]
 
 
 ########################
-STAGES [2023 Toggle]
+STAGES
 ########################
 
 POKEMON STADIUM 2
-Base - GrimeWall PS2 by ilikepizza107
-
-SMASHVILLE
-All - 2023 Smashville plat animation by Motobug
+L - GrimeWall PS2 by ilikepizza107
 
 HAMMER EXPRESS
 Base - Hammer Express by Nezha the Scout, KingJigglypuff, Ryztiq, Kirbeast, fudgepop01, eon_tas, Survivian, Electropolitan [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220257]
