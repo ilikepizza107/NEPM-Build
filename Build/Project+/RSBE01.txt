@@ -341,9 +341,9 @@ Default Settings Modifier [Igglyboo, Brkirch, and FMK]
 * 20523300 00000000
 * 04523300 DEADBEEF
 * 42000000 90000000
-* 0417F360 00000100
-* 0417F364 04000A00
-* 0417F368 08010100
+* 0417F360 00000100	# Stock Match, Infinte time
+* 0417F364 04000A00	# 4 stocks, Handicap OFF, Damage Ratio 1.0, Stage Option CHOOSE
+* 0417F368 08010101	# 8 min stock timer, Team attack ON, Pause Normal, ALC ON
 * 0417F36C 00000000
 * E0000000 80008000
 
