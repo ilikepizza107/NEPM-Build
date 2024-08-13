@@ -836,6 +836,7 @@ Frigate_Results:
 	li r5, 0x484D			# If so, use "HM"
 	b StoreString
 	
+	
 Default:
 	li r5, 0x4446
 	b StoreString
