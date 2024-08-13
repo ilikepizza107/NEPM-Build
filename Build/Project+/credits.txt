@@ -28,6 +28,10 @@ LINK
 27 - SgtPingwen Link by ilikepizza107
 
 SAMUS
+40 - Metroid Dread Power Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
+41 - Metroid Dread Varia Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
+42 - Metroid Dread Gravity Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
+43 - Metroid Dread Metroid Suit by Iwantgames, Mercury Steam [https://gamebanana.com/mods/330647]; costmetics by VirtualBeef [https://gamebanana.com/mods/360516]
 AltZ - SA-X by RedipsTheCooler, Afterthought, PMDT, SmashEmblem_guy, BlueLink, Moe, SJS, Xenozoa425, Rowsond [https://gamebanana.com/mods/388887]
 
 YOSHI
