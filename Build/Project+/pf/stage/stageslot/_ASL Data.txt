@@ -1,16 +1,15 @@
 ################
-01.asl - 6 entries
+01.asl - 5 entries
 
 Base: Battlefield.param
 R: Battlefield_R.param
 L: Battlefield_L.param
 Z: Battlefield_Z.param
 Y: Battlefield_Y.param
-Up+Down+Right+Left: Battlefield_DPAD.param
 
 
 ################
-02.asl - 8 entries
+02.asl - 7 entries
 
 Base: Final_Destination.param
 R: Final_Destination_R.param
@@ -19,31 +18,28 @@ Z: Final_Destination_Z.param
 Y: Final_Destination_Y.param
 L+R: Final_Destination_LR.param
 X: Final_Destination_X.param
-Up+Down+Right+Left: Final_Destination_DPAD.param
 
 
 ################
-03.asl - 5 entries
+03.asl - 4 entries
 
 Base: Delfino_Secret.param
 R: Delfino_Secret_R.param
 L: Delfino_Secret_L.param
 Z: Delfino_Secret_Z.param
-Up+Down+Right+Left: Delfino_Secret_DPAD.param
 
 
 ################
-04.asl - 5 entries
+04.asl - 4 entries
 
 Base: Luigis_Mansion.param
 R: Luigis_Mansion_R.param
 L: Luigis_Mansion_L.param
 Z: Luigis_Mansion_Z.param
-Up+Down+Right+Left: Luigis_Mansion_DPAD.param
 
 
 ################
-05.asl - 7 entries
+05.asl - 6 entries
 
 Base: Metal_Cavern.param
 R: Metal_Cavern_R.param
@@ -51,17 +47,15 @@ L: Metal_Cavern_L.param
 Z: Metal_Cavern_Z.param
 Y: Metal_Cavern_Y.param
 Y+Z: Metal_Cavern_YZ.param
-Up+Down+Right+Left: Metal_Cavern_DPAD.param
 
 
 ################
-06.asl - 5 entries
+06.asl - 4 entries
 
 Base: Bowser_Castle.param
 R: Bowser_Castle_R.param
 L: Bowser_Castle_L.param
 Z: Bowser_Castle_Z.param
-Up+Down+Right+Left: Bowser_Castle_DPAD.param
 
 
 ################
@@ -86,7 +80,7 @@ X+L: Rumble_Falls_LX.param
 
 
 ################
-09.asl - 7 entries
+09.asl - 6 entries
 
 Base: Temple_of_Time.param
 R: Temple_of_Time_R.param
@@ -94,7 +88,6 @@ L: Temple_of_Time_L.param
 Z: Temple_of_Time_Z.param
 0x8000: Temple_of_Time_ML_00.param
 0xC000: Event_31.param
-Up+Down+Right+Left: Temple_of_Time_DPAD.param
 
 
 ################
@@ -107,25 +100,23 @@ Z: Norfair_Z.param
 
 
 ################
-0C.asl - 6 entries
+0C.asl - 5 entries
 
 Base: Frigate_Husk.param
 R: Frigate_Husk_R.param
 L: Frigate_Husk_L.param
 Z: Frigate_Husk_Z.param
 X: Frigate_Husk_X.param
-Up+Down+Right+Left: Frigate_Husk_DPAD.param
 
 
 ################
-0D.asl - 6 entries
+0D.asl - 5 entries
 
 Base: Yoshis_Island.param
 R: Yoshis_Island_R.param
 L: Yoshis_Island_L.param
 Z: Yoshis_Island_Z.param
 X: Yoshis_Island_X.param
-Up+Down+Right+Left: Yoshis_Island_DPAD.param
 
 
 ################
@@ -208,13 +199,12 @@ X: Castle_Siege_X.param
 
 
 ################
-1C.asl - 5 entries
+1C.asl - 4 entries
 
 Base: Wario_Land.param
 R: Wario_Land_R.param
 L: Wario_Land_L.param
 Z: Wario_Land_Z.param
-Up+Down+Right+Left: Wario_Land_DPAD.param
 
 
 ################
@@ -236,13 +226,12 @@ Z: Skyworld_Z.param
 
 
 ################
-1F.asl - 5 entries
+1F.asl - 4 entries
 
 Base: Fountain_of_Dreams.param
 R: Fountain_of_Dreams_R.param
 L: Fountain_of_Dreams_L.param
 Z: Fountain_of_Dreams_Z.param
-Base: Fountain_of_Dreams_DPAD.param
 
 
 ################
@@ -256,7 +245,7 @@ Z: Fourside_Z.param
 
 
 ################
-21.asl - 9 entries
+21.asl - 8 entries
 
 Base: Smashville.param
 Y: Smashville_Y.param
@@ -266,7 +255,6 @@ L: Smashville_L.param
 Y+L: Smashville_YL.param
 Z: Smashville_Z.param
 Y+Z: Smashville_YZ.param
-Up+Down+Right+Left: Smashville_DPAD.param
 
 
 ################
@@ -279,7 +267,7 @@ Z: Shadow_Moses_Z.param
 
 
 ################
-23.asl - 7 entries
+23.asl - 6 entries
 
 Base: Green_Hill_Zone.param
 R: Green_Hill_Zone_R.param
@@ -287,7 +275,6 @@ L: Green_Hill_Zone_L.param
 X: Green_Hill_Zone_X.param
 Z: Green_Hill_Zone_Z.param
 X+L: Green_Hill_Zone_LX.param
-Up+Down+Right+Left: Green_Hill_Zone_DPAD.param
 
 
 ################
@@ -318,7 +305,7 @@ Base: Config.param
 ################
 28.asl - 1 alt stage
 
-Base: Results.param
+Base: Results_DF.param
 
 
 ################
@@ -358,25 +345,23 @@ Z: Onett_Z.param
 
 
 ################
-2D.asl - 6 entries
+2D.asl - 5 entries
 
 Base: Dream_Land.param
 R: Dream_Land_R.param
 L: Dream_Land_L.param
 Z: Dream_Land_Z.param
 Y: Dream_Land_Y.param
-Up+Down+Right+Left: Dream_Land_DPAD.param
 
 
 ################
-2E.asl - 6 entries
+2E.asl - 5 entries
 
 Base: Pokemon_Stadium_2.param
 R: Pokemon_Stadium_2_R.param
 L: Pokemon_Stadium_2_L.param
 Z: Pokemon_Stadium_2_Z.param
 X: Pokemon_Stadium_2_X.param
-Up+Down+Right+Left: Pokemon_Stadium_2_DPAD.param
 
 
 ################
@@ -511,13 +496,12 @@ X: Sky_Sanctuary_X.param
 
 
 ################
-44.asl - 5 entries
+44.asl - 4 entries
 
 Base: Dead_Line.param
 R: Dead_Line_R.param
 L: Dead_Line_L.param
 Z: Dead_Line_Z.param
-Up+Down+Right+Left: Dead_Line_DPAD.param
 
 
 ################

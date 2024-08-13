@@ -1,6 +1,6 @@
-#########################
+
+
 L-Cancelling Rework [Eon]
-#########################
 .macro getInt(<id>)
 {
     %workModuleCmd(<id>, 0x18)
@@ -154,12 +154,15 @@ end:
 }
 
 
-#############################################################################################################################################################
-L-Cancel Landing Lag and Success Rate and Score Display is Auto L-Cancel Option + White L-cancel Flash v3.1 [Magus, Standardtoaster, wiiztec, Eon, DukeItOut]
-#
-# 3.1: Added replay support
-#############################################################################################################################################################
+
+L-Cancel Landing Lag and Success Rate and Score Display is Auto L-Cancel Option + White L-cancel Flash v3.0 [Magus, Standardtoaster, wiiztec, Eon]
 #check frame = 6 and disable flash
+# Code Menu mod made by Desi, based on Per Player versions by Wiiztech
+
+.alias CodeMenuStart = 0x804E
+.alias CodeMenuHeader = 0x02A8       #Offset of word containing location of the player 1 toggle. Source is compiled with headers for this.
+.alias CodeMenuHeaderInputBuffer = 0x2C4
+
 HOOK @ $80874850 
 {
 	cmpwi r3, 0x5
@@ -194,59 +197,101 @@ loc_0x0:
   cmpwi r3, 0
   ble checkForAutoLcancel
 trueLcancel:
-  #start flash effect
-  lwz r3, 0xD8(r31)
-  lwz r3, 0xAC(r3)
-
-  #initial colour
+  #Set R0 to White, branch to Apply Flash
   lis r0, 0xFFFF
   ori r0, r0, 0xFFDC
-  addi r4, r1, 0x18
-  stw r0, 0(r4)
-
-  li r5, 1
-  lwz r12, 0(r3)
-  lwz r12, 0x24(r12)
-  mtctr r12
-  bctrl
-
-  lwz r3, 0xD8(r31)
-  lwz r3, 0xAC(r3)
-  #time to transition
-  lis r0, 0x40C0
-  stw r0, 0x18(r1)
-  lfs f1, 0x18(r1)
-  #target colour of transition
-  lis r0, 0xFFFF
-  ori r0, r0, 0xFF00
-  addi r4, r1, 0x18
-  stw r0, 0(r4)
-  #true
-  li r5, 1
-
-  lwz r12, 0x0(r3)
-  lwz r12, 0x28(r12)
-  mtctr r12
-  bctrl
+  bl 0x4  #set LR
+  mflr r11 #Store Link Register in R11
+  addi r11, r11, 0xC
+  bl applyFlash
   li r6, 1
-  b applyLcancel
-checkForAutoLcancel:  
-  li r6, 0
-  # lis r11, 0x9017
-  # ori r11, r11, 0xF36B
-  # lbz r11, 0(r11)
-  # cmpwi r11, 0x1
-  lis r11, 0x805A
-  lwz r11, 0xE0(r11)	
-  lwz r11, 0x08(r11)		
-  lbz r11, 0xE5(r11)	# 0x4D (+ 0x98)
-  andi. r11, r11, 1	# bit used for ALC
-  beq calcStat
-applyLcancel:  
-#load 0.5
-
   lfs f0, -23448(r2)
   fmuls f30, f30, f0
+  b calcStat
+
+checkForAutoLcancel: 
+  lwz r11, 28(r31)          #\Obtain Player ID 
+  lwz r11, 40(r11)          #|
+  lwz r11, 16(r11)          #|
+  lbz r11, 85(r11)          #/
+  mulli r11, r11, 0x4       #Determine which player offset to load
+  lis r6, CodeMenuStart
+  ori r6, r6, CodeMenuHeader    #Load Code Menu Header
+  lwzx r6, r6, r11
+  lbz r11, 0xB(r6)     #Load Option Selection
+  cmpwi r11, 0x1
+  beq applyLCancelRedFlash
+  cmpwi r11, 0x2
+  beq applyModifiedLCancelFlash
+  lis r11, 0x9017
+  ori r11, r11, 0xF36B
+  lbz r11, 0(r11)
+  cmpwi r11, 0x1
+  beq applyLcancel  #Skip applying fail flash if universal option is on
+  lhz r11, 0 (r6)
+  add r6, r11, r6   #Load up next toggle (Modifier)
+  lhz r11, 0 (r6)
+  add r6, r11, r6   #Load up next toggle (Red Flash on L Cancel)
+  lbz r11, 0xB(r6)     #Load Option Selection
+  cmpwi r11, 0x1
+  beq applyRedFlashNoCancel
+  b checkForInputBuffer
+
+applyRedFlashNoCancel:
+  lis r0, 0xFF00      #Red Flash
+  ori r0, r0, 0x0080
+  bl 0x4  #set LR
+  mflr r11 #Store Link Register in R11
+  addi r11, r11, 0xC
+  bl applyFlash
+  li r6, 0
+  b checkForInputBuffer
+
+applyModifiedLCancelFlash:
+  lhz r11, 0 (r6)
+  add r6, r11, r6
+  lfs f0, 0x8 (r6)
+  fmuls f30, f30, f0
+  lis r0, 0x8000      #Purple Flash for Modified Values
+  ori r0, r0, 0x8080
+  bl 0x4  #set LR
+  mflr r11 #Store Link Register in R11
+  addi r11, r11, 0xC
+  bl applyFlash
+  li r6, 0
+  b calcStat
+
+applyLCancelRedFlash:
+  lis r0, 0xFF00    #RedFlash
+  ori r0, r0, 0x0080
+  bl 0x4  #set LR
+  mflr r11 #Store Link Register in R11
+  addi r11, r11, 0x0C
+  bl applyFlash
+applyLcancel:
+  lfs f0, -23448(r2)
+  fmuls f30, f30, f0
+  li r6, 0
+
+checkForInputBuffer:
+  lwz r11, 28(r31)          #\Obtain Player ID 
+  lwz r11, 40(r11)          #|
+  lwz r11, 16(r11)          #|
+  lbz r11, 85(r11)          #/
+  mulli r11, r11, 0x4       #Determine which player offset to load
+  lis r4, CodeMenuStart
+  ori r4, r4, CodeMenuHeaderInputBuffer    #Load Code Menu Header
+  lwzx r4, r4, r11
+  lbz r4, 0xB(r4)     #Load Option Selection
+  cmpwi r4, 0
+  beq calcStat
+  lis r0, 0xB000    #Apply Purple Flash indicating Input Buffer
+  ori r0, r0, 0xFF80
+  bl 0x4  #set LR
+  mflr r11 #Store Link Register in R11
+  addi r11, r11, 0xC
+  bl applyFlash
+  li r6, 0
 
 #everything past this point is for the stat
 calcStat:
@@ -311,18 +356,51 @@ loc_0x98:
   fsub f30, f30, f0
   fadds f31, f31, f1
   fdivs f31, f31, f30
+  b %end%
 
 
+applyFlash:
+  #Set r0 to color. First 6 digits are color, last 2 digits are opacity.
+    #start flash effect
+  lwz r3, 0xD8(r31)
+  lwz r3, 0xAC(r3)
+
+  #initial colour
+  addi r4, r1, 0x18
+  stw r0, 0(r4)
+
+  li r5, 1
+  lwz r12, 0(r3)
+  lwz r12, 0x24(r12)
+  mtctr r12
+  bctrl
+
+  lwz r3, 0xD8(r31)
+  lwz r3, 0xAC(r3)
+  #time to transition
+  lis r0, 0x40C0
+  stw r0, 0x18(r1)
+  lfs f1, 0x18(r1)
+  #target colour of transition
+  lis r0, 0xFFFF
+  ori r0, r0, 0xFF00
+  addi r4, r1, 0x18
+  stw r0, 0(r4)
+  #true
+  li r5, 1
+
+  lwz r12, 0x0(r3)
+  lwz r12, 0x28(r12)
+  mtctr r12
+  bctrl
+  mtlr r11
+  blr
 }
 
-##############################################
 Disable Aerial Attack Landing Lag IASA [Magus]
-##############################################
 * 04FAF168 800000FF
 
-########################################
 Remove grabbing Items with Aerials [Eon]
-########################################
 CODE @ $80FC2798
 {
   word 0x00020000; word 0
@@ -330,9 +408,7 @@ CODE @ $80FC2798
   word 0x00020000; word 0
 }
 
-#############################################
 Aerial Staling Set before Subaction Set [Eon]
-#############################################
 #nair
 CODE @ $80FC2820
 {
