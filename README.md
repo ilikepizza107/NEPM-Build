@@ -1,5 +1,5 @@
-# NEPM Wii/Netplay Build
+# NEPPlus Wii/Netplay Build
 
-Netplay Download Link: https://drive.google.com/file/d/1idJb_GQCTvqG6-Q3MKtymnljRFzWhMp3/view?usp=share_link
+Netplay Download Link: https://drive.google.com/file/d/1Xw6EqRKxqhQmFj47LwIjXb9JAPfzyEHS/view?usp=sharing
 
-Wii Download Link: https://drive.google.com/file/d/1HZtvv60I3r4oOj298XvI48ne7Nluy8Y2/view?usp=share_link
+Wii Download Link: https://github.com/ilikepizza107/NEPM-Build/releases
