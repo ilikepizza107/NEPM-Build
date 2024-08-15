@@ -1,5 +1,5 @@
 ################
-Battlefield.tlst - 7 tracks
+Battlefield.tlst - 8 tracks
 
 	Boss Battle 1 (Kid Icarus)
 	Kid Icarus\Boss Battle 1 (Kid Icarus Uprising).brstm
@@ -34,6 +34,11 @@ Battlefield.tlst - 7 tracks
 	Still, Move Forward! (Xenoblade Chronicles 2)
 	Xenoblade/Still, Move Forward! (Xenoblade Chronicles 2).brstm
 	Volume: 80
+	Frequency: 80
+
+	Mutual Situation II (Under Night In-Birth)
+	Under Night/Mutual Situation II (Under Night In-Birth II).brstm
+	Volume: 72
 	Frequency: 80
 
 ################
