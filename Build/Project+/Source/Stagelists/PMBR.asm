@@ -1,7 +1,7 @@
 ######################################################################################
-PMBR Stagelist [ilikepizza107]
+PMBR Stagelist [Moto]
 ######################################################################################
-* 20523400 00000003 # If 80523400 is equal to 3
+* 286AEDF4 00000006 # If 806AEDF4 is equal to 6
 
 .BA<-TABLE_STAGES
 .BA->$80495D00
@@ -18,31 +18,31 @@ PMBR Stagelist [ilikepizza107]
 .GOTO->SkipStageTables
 
 TABLE_1:
-	byte[10] |
-0x15, | # Wario Land
-0x18, | # Fountain of Dreams
-0x01, | # Final Destination
-0x04, | # Metal Cavern
-0x23, | # Dream Land
-0x1C, | # Green Hill Zone
-0x1A, | # Smashville
-0x00, | # Battlefield
-0x28, | # Pokemon Stadium 2
-0x02  | # Delfino's Secret
-
-TABLE_2:
-	byte[27] |
+	byte[21] |
 0x20, | # Yoshi's Story
 0x05, | # Bowser's Castle
 0x14, | # Castle Siege
 0x1E, | # Sky Sanctuary Zone
 0x21, | # Golden Temple
-0x0A, | # Metroid Lab
+0x0A, | # Ceres Space Colony
 0x16, | # Distant Planet
 0x0C, | # Yoshi's Island
-0x0B, | # Frigate Orpheon
+0x15, | # Wario Land
+0x18, | # Fountain of Dreams
+0x01, | # Final Destination
+0x04, | # Metal Cavern
+0x23, | # Dream Land
+0x0B, | # Frigate Husk
 0x08, | # Temple of Time
-0x03, | # Luigi's Mansion
+0x1C, | # Green Hill Zone
+0x1A, | # Smashville
+0x00, | # Battlefield
+0x28, | # Pokemon Stadium 2
+0x02, | # Delfino's Secret
+0x03  | # Luigi's Mansion
+
+TABLE_2:
+	byte[21] |
 0x24, | # Peach's Castle
 0x06, | # Kongo Jungle
 0x07, | # Rumble Falls
@@ -58,18 +58,19 @@ TABLE_2:
 0x19, | # Fourside
 0x12, | # Infinite Glacier
 0x26, | # Big Blue
-0x2B  | # Training Room
-
-TABLE_3:
-	byte[23] |
 0x11, | # Port Town Aero Dive
 0x13, | # Flat Zone 2
 0x17, | # Skyworld
 0x1B, | # Shadow Moses Island
 0x1D, | # PictoChat
+0x2B  | # Training Room
+
+TABLE_3:
+	byte[20] |
 0x31, | # Dinosaur Land
 0x2D, | # Mario Circuit
 0x38, | # Mushroom Kingdom
+0x3F, | # Mushroom Kingdom II
 0x3B, | # Rainbow Cruise
 0x32, | # Oil Drum Alley
 0x33, | # Jungle Japes
@@ -80,6 +81,7 @@ TABLE_3:
 0x3C, | # Poke Floats
 0x34, | # Bell Tower
 0x35, | # Norfair
+0x3E, | # Venom
 0x2F, | # Hanenbow
 0x37, | # Venus Lighthouse
 0x2C, | # Dracula's Castle
@@ -91,7 +93,7 @@ TABLE_5:	# Unused
 
 TABLE_STAGES:
 # Table of icon<->stage slot associations
-half[62] |	# Stage Count + 2
+half[64] |	# Stage Count + 2
 | # OLD SLOTS
 0x0101, 0x0202, 0x0303, 0x0404, | # Battlefield, Final Destination, Delfino's Secret, Luigi's Mansion
 0x0505, 0x0606, 0x0707, 0x0808, | # Metal Cavern, Bowser's Castle, Kongo Jungle, Rumble Falls
@@ -109,16 +111,16 @@ half[62] |	# Stage Count + 2
 0x4427, 0x4528, 0x4629, 0x2B34, | # Dead Line, Dinosaur Land, Oil Drum Alley, Jungle Japes
 0x482B, 0x0B0B, 0x4A2D, 0x4B2E, | # Bell Tower, Norfair, Cookie Country, Venus Lighthouse
 0x4C2F, 0x4D30, 0x4E31, 0x4F3D, | # Mushroom Kingdom, WarioWare, Subspace, Rainbow Cruise
-0x503E, 0x513F			  | # Poke Floats, Pirate Ship
+0x503E, 0x513F, 0x5240, 0x5341	| # Poke Floats, Pirate Ship, Venom, Mushroom Kingdom II
 
 
 SkipStageTables:
 .RESET
-* 20523400 00000003 # If 80523400 is equal to 3
-byte 10 @ $806B929C # Page 1
-byte 27 @ $806B92A4 # Page 2
-byte 23 @ $80496002 # Page 3
+* 286AEDF4 00000006 # If 806AEDF4 is equal to 6
+byte 21 @ $806B929C # Page 1
+byte 21 @ $806B92A4 # Page 2
+byte 20 @ $80496002 # Page 3
 byte 00 @ $80496003 # Page 4 (Unused)
 byte 00 @ $80496004 # Page 5 (Unused)
-byte 60 @ $800AF673 # Stage Count
+byte 62 @ $800AF673 # Stage Count
 * E0000000 80008000
