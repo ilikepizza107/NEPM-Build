@@ -790,9 +790,9 @@ StageResults:
 	cmpwi r6, 0x06; li r5, 0x4243; beq StoreString	# Bowser's Castle
 	cmpwi r6, 0x09; li r5, 0x5454; beq StoreString	# Temple of Time
 	cmpwi r6, 0x0C; beq Frigate_Results				# Frigate Husk
-	cmpwi r6, 0x0D; li r5, 0x464F; beq StoreString	# Yoshi's Island
+	cmpwi r6, 0x0D; li r5, 0x5949; beq StoreString	# Yoshi's Island
 	cmpwi r6, 0x1C; li r5, 0x574C; beq StoreString	# Wario Land
-	cmpwi r6, 0x1F; li r5, 0x5949; beq StoreString	# Fountain of Dreams
+	cmpwi r6, 0x1F; li r5, 0x464F; beq StoreString	# Fountain of Dreams
 	cmpwi r6, 0x21; li r5, 0x5356; beq StoreString	# Smashville
 	cmpwi r6, 0x23; li r5, 0x4748; beq StoreString	# Green Hill Zone
 	cmpwi r6, 0x2D; li r5, 0x444C; beq StoreString	# Dream Land
