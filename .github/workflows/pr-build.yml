@@ -129,7 +129,7 @@ jobs:
 
       - name: "Publish"
         if: success()
-        uses: actions/upload-artifact@v2-preview
+        uses: actions/upload-artifact@v4-preview
         with:
           name: "Build"
           path: "./artifact/"
