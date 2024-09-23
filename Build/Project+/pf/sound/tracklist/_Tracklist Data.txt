@@ -38,7 +38,7 @@ Battlefield.tlst - 8 tracks
 
 	Mutual Situation II (Under Night In-Birth)
 	Under Night/Mutual Situation II (Under Night In-Birth II).brstm
-	Volume: 72
+	Volume: 78
 	Frequency: 80
 
 ################
