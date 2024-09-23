@@ -127,6 +127,8 @@ HOOK @ $80949BEC
 	lhz r4, -0xFEE(r12)		# / Effectbank ID to load @ $8054F012
 	stw r4, 0x94(r3)   	 	# store stage effectbank ID, not read by SSE
 }
+/*
+### NO LONGER USED, LEFT HERE FOR NOW TO REMEMBER HOW IT WAS ACHIEVED
 ###
 # Load RGBA Overlay
 # Suggested values for overlays:
@@ -154,7 +156,7 @@ HOOK @ $8083413c	# Fighter::postInitialize
 	mtctr r12 				# |
 	bctr					# /
 }
-
+*/
 ###
 # Load Secondary Stage Name on Slots 0x13 and 0x19
 op NOP @ $8094AB24			# Make all dual pac stages run the same code
@@ -790,9 +792,9 @@ StageResults:
 	cmpwi r6, 0x06; li r5, 0x4243; beq StoreString	# Bowser's Castle
 	cmpwi r6, 0x09; li r5, 0x5454; beq StoreString	# Temple of Time
 	cmpwi r6, 0x0C; beq Frigate_Results				# Frigate Husk
-	cmpwi r6, 0x0D; li r5, 0x464F; beq StoreString	# Yoshi's Island
+	cmpwi r6, 0x0D; li r5, 0x5949; beq StoreString	# Yoshi's Island
 	cmpwi r6, 0x1C; li r5, 0x574C; beq StoreString	# Wario Land
-	cmpwi r6, 0x1F; li r5, 0x5949; beq StoreString	# Fountain of Dreams
+	cmpwi r6, 0x1F; li r5, 0x464F; beq StoreString	# Fountain of Dreams
 	cmpwi r6, 0x21; li r5, 0x5356; beq StoreString	# Smashville
 	cmpwi r6, 0x23; li r5, 0x4748; beq StoreString	# Green Hill Zone
 	cmpwi r6, 0x2D; li r5, 0x444C; beq StoreString	# Dream Land
