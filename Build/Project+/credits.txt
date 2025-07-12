@@ -173,6 +173,7 @@ STAGES
 ########################
 
 POKEMON STADIUM 2
+Base - NE PS2 by ilikepizza107
 L - GrimeWall PS2 by ilikepizza107
 
 HAMMER EXPRESS
