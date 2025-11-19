@@ -16,7 +16,7 @@ Battlefield_L.param
 Battlefield_MR_00.param
 
 	STGBATTLEFIELD_MR_BF_DUEL.pac
-	st_final.rel
+	st_battle_NoShadowRotate.rel
 	Battlefield_64.tlst
 
 ################
@@ -97,29 +97,23 @@ Big_Blue_Z.param
 Bowser_Castle.param
 
 	STGBOWSERCASTLE.pac
-	st_bowsercastle.rel
+	st_final.rel
 	Bowsers_Castle.tlst
-	SFX / GFX: 0x0201 / 0x0032
 
 ################
 Bowser_Castle_L.param
 
-	[Substages / Normal]
-	- STGBOWSERCASTLE_L_THWOMPS.pac
-
+	STGBOWSERCASTLE_L_THWOMPS.pac
 	st_bowsercastle.rel
 	Bowsers_Castle.tlst
-	SFX / GFX: 0x0201 / 0x0032
+	SFX / GFX: 0x0053 / 0x0032
 
 ################
 Bowser_Castle_MR_00.param
 
-	[Substages / Normal]
-	- STGBOWSERCASTLE_MR_BC_DRY.pac
-
-	st_bowsercastle.rel
+	STGBOWSERCASTLE_MR_BC_DRY.pac
+	st_final.rel
 	Bowsers_Castle.tlst
-	SFX / GFX: 0x0201 / 0x0032
 
 ################
 Bowser_Castle_R.param
@@ -331,7 +325,7 @@ Cookie_Country_L.param
 Cookie_Country_R.param
 
 	STGCOOKIECOUNTRY_R_FOD_COOKIE.pac
-	st_dxfountain.rel
+	st_final.rel
 	Cookie_Country.tlst
 
 ################
@@ -369,7 +363,7 @@ Corneria_ML_00.param
 Corneria_R.param
 
 	STGCORNERIA_R_FOD_SAURIA.pac
-	st_dxfountain.rel
+	st_final.rel
 	Sauria.tlst
 	SFX / GFX: 0x006D / 0x0061
 
@@ -422,14 +416,6 @@ Delfino_Secret_L.param
 	STGDELFINOSECRET_L_DELFINOPLAZA.pac
 	st_dolpic.rel
 	Delfino_Plaza.tlst
-	SFX / GFX: 0x004D / 0x0034
-
-################
-Delfino_Secret_MR_00.param
-
-	STGDELFINOSECRET_MR_DS_WORLD2-3.pac
-	st_final.rel
-	World_2-3.tlst
 	SFX / GFX: 0x004D / 0x0034
 
 ################
@@ -608,7 +594,7 @@ Event_31.param
 Final_Destination.param
 
 	STGFINALDESTINATION.pac
-	st_final_substage.rel
+	st_final.rel
 	Final_Destination.tlst
 	SFX / GFX: 0xFFFF / 0x0033
 
@@ -1018,7 +1004,7 @@ Infinite_Glacier_L.param
 Infinite_Glacier_R.param
 
 	STGINFINITEGLACIER_R_FOD_SUMMIT.pac
-	st_dxfountain.rel
+	st_final.rel
 	Infinite_Glacier.tlst
 
 ################
@@ -1582,17 +1568,19 @@ Pokemon_Stadium_2_ML_00.param
 ################
 Pokemon_Stadium_2_R.param
 
-	STGPOKEMONSTADIUM_R_PS2_RADIANT.pac
-	st_final.rel
+	STGPOKEMONSTADIUM_R_DEFAULT.pac
+	st_stadium_static.rel
 	Pokemon_Stadium_2.tlst
 	SFX / GFX: 0x0059 / 0x0045
+	MemoryAllocation: 0x209767 (2135911 bytes)
 
 ################
 Pokemon_Stadium_2_Z.param
 
-	STGPOKEMONSTADIUM_Z_PS2_ABANDONED.pac
+	STGPOKEMONSTADIUM_Z_GRIMEWALL.pac
 	st_final.rel
-	Spear_Pillar.tlst
+	Pokemon_Stadium_2.tlst
+	SFX / GFX: 0xFFFF / 0xFFFF
 
 ################
 Poke_Floats.param
@@ -1606,14 +1594,6 @@ Poke_Floats_L.param
 
 	STGPOKEFLOATS_L_PS1.pac
 	st_dxpstadium.rel
-	Pokemon_Stadium.tlst
-	SFX / GFX: 0x006E / 0x005F
-
-################
-Poke_Floats_ML_00.param
-
-	STGPOKEFLOATS_ML_FROZENPS1.pac
-	st_dxpstadium_static.rel
 	Pokemon_Stadium.tlst
 	SFX / GFX: 0x006E / 0x005F
 
@@ -1719,6 +1699,225 @@ Rest_Area.param
 Results.param
 
 	STGRESULT.pac
+	
+	Results.tlst
+
+################
+Results_BC.param
+
+	STGRESULT_STGBOWSERCASTLE.pac
+	
+	Results.tlst
+
+################
+Results_BF.param
+
+	STGRESULT_STGBATTLEFIELD.pac
+	
+	Results.tlst
+
+################
+Results_CC.param
+
+	STGRESULT_STGCERESSPACECOLONY.pac
+	
+	Results.tlst
+
+################
+Results_DB.param
+
+	STGRESULT_STGBOWSERCASTLE_MR_BC_DRY.pac
+	
+	Results.tlst
+
+################
+Results_DE.param
+
+	STGRESULT_STGDEADLINE.pac
+	
+	Results.tlst
+
+################
+Results_DF.param
+
+	STGRESULT.pac
+	
+	Results.tlst
+
+################
+Results_DL.param
+
+	STGRESULT_STGDREAMLAND.pac
+	
+	Results.tlst
+
+################
+Results_DP.param
+
+	STGRESULT_STGDISTANTPLANET.pac
+	
+	Results.tlst
+
+################
+Results_DR.param
+
+	STGRESULT_STGDREAMLAND_R_DL_NIGHT.pac
+	
+	Results.tlst
+
+################
+Results_DS.param
+
+	STGRESULT_STGDELFINOSECRET.pac
+	
+	Results.tlst
+
+################
+Results_FD.param
+
+	STGRESULT_STGFINALDESTINATION.pac
+	
+	Results.tlst
+
+################
+Results_FH.param
+
+	STGRESULT_STGFRIGATEHUSK.pac
+	
+	Results.tlst
+
+################
+Results_FO.param
+
+	STGRESULT_STGFOUNTAINOFDREAMS.pac
+	
+	Results.tlst
+	SFX / GFX: 0x006E / 0x0033
+
+################
+Results_FR.param
+
+	STGRESULT_STGFRIGATEHUSK_R_FH_PHENDRANA.pac
+	
+	Results.tlst
+
+################
+Results_FZ.param
+
+	STGRESULT_STGFRIGATEHUSK_Z_FH_DROWNED.pac
+	
+	Results.tlst
+
+################
+Results_GH.param
+
+	STGRESULT_STGGREENHILLZONE.pac
+	
+	Results.tlst
+
+################
+Results_GT.param
+
+	STGRESULT_STGGOLDENTEMPLE.pac
+	
+	Results.tlst
+
+################
+Results_HM.param
+
+	STGRESULT_STGFRIGATEHUSK_L.pac
+	
+	Results.tlst
+
+################
+Results_LM.param
+
+	STGRESULT_STGLUIGISMANSION.pac
+	
+	Results.tlst
+
+################
+Results_MC.param
+
+	STGRESULT_STGMETALCAVERN.pac
+	
+	Results.tlst
+
+################
+Results_PR.param
+
+	STGRESULT_STGPOKEMONSTADIUM_R.pac
+	
+	Results.tlst
+
+################
+Results_PS.param
+
+	STGRESULT_STGPOKEMONSTADIUM.pac
+	
+	Results.tlst
+
+################
+Results_PZ.param
+
+	STGRESULT_STGPOKEMONSTADIUM_Z.pac
+	
+	Results.tlst
+	SFX / GFX: 0xFFFF / 0xFFFF
+
+################
+Results_SV.param
+
+	STGRESULT_STGSMASHVILLE.pac
+	
+	Results.tlst
+
+################
+Results_SZ.param
+
+	STGRESULT_STGSKYSANCTUARY.pac
+	
+	Results.tlst
+
+################
+Results_TD.param
+
+	STGRESULT_STGTRAININGROOM_MR_DARK.pac
+	
+	Results.tlst
+
+################
+Results_TO.param
+
+	STGRESULT_STGTEMPLEOFTIME_R_TOT_OOT.pac
+	
+	Results.tlst
+
+################
+Results_TR.param
+
+	STGRESULT_STGTRAININGROOM.pac
+	
+	Results.tlst
+
+################
+Results_TT.param
+
+	STGRESULT_STGTEMPLEOFTIME.pac
+	
+	Results.tlst
+
+################
+Results_WL.param
+
+	STGRESULT_STGWARIOLAND.pac
+	
+	Results.tlst
+
+################
+Results_YI.param
+
+	STGRESULT_STGYOSHISISLAND.pac
 	
 	Results.tlst
 
@@ -2032,11 +2231,8 @@ Spear_Pillar.param
 ################
 Spear_Pillar_L.param
 
-	[Substages / RandomVariance]
-	- STGSPEARPILLAR_L_FD_ROCKETHIDEOUT.pac
-	- STGSPEARPILLAR_L_FD_ROCKETHIDEOUT.pac
-
-	st_final_substage.rel
+	STGSPEARPILLAR_L_FD_ROCKETHIDEOUT.pac
+	st_final.rel
 	Rocket_Hideout.tlst
 
 ################
@@ -2164,9 +2360,11 @@ Temple_Z.param
 ################
 Training.param
 
-	STGTRAININGROOM.pac
-	st_mansion.rel
-	Training_Room.tlst
+	STGHAMMEREXPRESS.pac
+	st_HammerExpress.rel
+	Lethal_League.tlst
+	SFX / GFX: 0x0053 / 0x0032
+	Flags: FixedCamera
 
 ################
 Training_L.param
@@ -2206,9 +2404,9 @@ Training_MR_01.param
 ################
 Training_R.param
 
-	STGTRAININGROOM_R_PS2_P+.pac
-	st_final.rel
-	P+_Stadium.tlst
+	STGTRAININGROOM.pac
+	st_mansion.rel
+	Training_Room.tlst
 	SFX / GFX: 0xFFFF / 0x0033
 
 ################
