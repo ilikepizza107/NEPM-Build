@@ -8,7 +8,11 @@ CS: Castle Siege
 
 CSC: Ceres Space Colony
 
+DED: Dead Line
+
 DS: Delfino Secret
+
+DL: Dream Land
 
 DP: Distant Planet
 
@@ -29,6 +33,8 @@ MC: Metal Cavern
 NF: Norfair (PM 3.6)
 
 PS2: Pokemon Stadium 2
+
+SV: Smashville
 
 SW: Skyworld
 
